@@ -22,6 +22,5 @@ En Mac con chip Apple el entorno se instala en modo Intel (`CONDA_SUBDIR=osx-64`
 scripts/     pasos numerados (00_setup, 01_descarga, 02_qc, ...)
 config/      regiones, rutas y semilla
 results/     tablas y figuras
-docs/        informe, reporte clínico, caso de negocio
 tools/       PharmCAT (descargado por 00_setup.sh)
 ```
