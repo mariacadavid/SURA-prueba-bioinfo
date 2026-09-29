@@ -1,0 +1,3124 @@
+IID	poblacion	gen	diplotipo	fenotipo_CPIC	puntaje_actividad	categoria
+HG01112	CLM	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+HG01112	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01112	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01112	CLM	DPYD	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01112	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01112	CLM	SLCO1B1	*15/*15	Poor Function		Pobre
+HG01112	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01112	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01112	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01113	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01113	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01113	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01113	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01113	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01113	CLM	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01113	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01113	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01113	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01119	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01119	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01119	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01119	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01119	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01119	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01119	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01119	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01119	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01121	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01121	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01121	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01121	CLM	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01121	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01121	CLM	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01121	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01121	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01121	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01122	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01122	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01122	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01122	CLM	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01122	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01122	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01122	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01122	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01122	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01124	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01124	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01124	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01124	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01124	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01124	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01124	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01124	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01124	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01125	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01125	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01125	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01125	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01125	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01125	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01125	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01125	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01125	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01130	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01130	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01130	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01130	CLM	DPYD	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01130	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01130	CLM	SLCO1B1	*14/*37	Normal Function		Normal
+HG01130	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01130	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01130	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01131	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01131	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01131	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01131	CLM	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01131	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01131	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01131	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01131	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01131	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01133	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01133	CLM	CYP2C9	*2/*3	Poor Metabolizer	0.5	Pobre
+HG01133	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01133	CLM	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	 	Indeterminado
+HG01133	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01133	CLM	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01133	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01133	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01133	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01134	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01134	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01134	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01134	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01134	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01134	CLM	SLCO1B1	*14/*37	Normal Function		Normal
+HG01134	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01134	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01134	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01136	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01136	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01136	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01136	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01136	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01136	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01136	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01136	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01136	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01137	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01137	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01137	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01137	CLM	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01137	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01137	CLM	SLCO1B1	*37/*37	Normal Function		Normal
+HG01137	CLM	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01137	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01137	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01139	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01139	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01139	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01139	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01139	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01139	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01139	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01139	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01139	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01140	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01140	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01140	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01140	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01140	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01140	CLM	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01140	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01140	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01140	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01142	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01142	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01142	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01142	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01142	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01142	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01142	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01142	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01142	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01148	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01148	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01148	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01148	CLM	DPYD	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01148	CLM	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01148	CLM	SLCO1B1	*14/*20	Increased Function		Rápido
+HG01148	CLM	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01148	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01148	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01149	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01149	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01149	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01149	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01149	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01149	CLM	SLCO1B1	*37/*37	Normal Function		Normal
+HG01149	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01149	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01149	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01250	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01250	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01250	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01250	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01250	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01250	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01250	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01250	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01250	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01251	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01251	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01251	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01251	CLM	DPYD	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01251	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01251	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01251	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01251	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01251	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01253	CLM	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01253	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01253	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01253	CLM	DPYD	c.1896T>C/[c.85T>C (*9A) + c.775A>G]	Indeterminate	 	Indeterminado
+HG01253	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01253	CLM	SLCO1B1	*5/*15	Poor Function		Pobre
+HG01253	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01253	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01253	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01254	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01254	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01254	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01254	CLM	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01254	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01254	CLM	SLCO1B1	*14/*15	Decreased Function		Intermedio
+HG01254	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01254	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01254	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01256	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01256	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01256	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01256	CLM	DPYD	Reference/c.2846A>T	Intermediate Metabolizer	1.5	Intermedio
+HG01256	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01256	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01256	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01256	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01256	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01257	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01257	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01257	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01257	CLM	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01257	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01257	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01257	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01257	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01257	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01259	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01259	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01259	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01259	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01259	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01259	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01259	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01259	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01259	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01260	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01260	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01260	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01260	CLM	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01260	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01260	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01260	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01260	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01260	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01269	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01269	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01269	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01269	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01269	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01269	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01269	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01269	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01269	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01271	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01271	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01271	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01271	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01271	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01271	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01271	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01271	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01271	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01272	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01272	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01272	CLM	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01272	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01272	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01272	CLM	SLCO1B1	*1/*43	Indeterminate		Indeterminado
+HG01272	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01272	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01272	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01275	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01275	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01275	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01275	CLM	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01275	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01275	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01275	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01275	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01275	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01277	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01277	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01277	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01277	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01277	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01277	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01277	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01277	CLM	UGT1A1	*1/*6	Intermediate Metabolizer		Intermedio
+HG01277	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01280	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01280	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01280	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01280	CLM	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01280	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01280	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01280	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01280	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01280	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01281	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01281	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01281	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01281	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01281	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01281	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01281	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01281	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01281	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01284	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01284	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01284	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01284	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01284	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01284	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01284	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01284	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01284	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01341	CLM	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01341	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01341	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01341	CLM	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01341	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01341	CLM	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01341	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01341	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01341	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01342	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01342	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01342	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01342	CLM	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01342	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01342	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01342	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01342	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01342	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01344	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01344	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01344	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01344	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01344	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01344	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01344	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01344	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01344	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01345	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01345	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01345	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01345	CLM	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01345	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01345	CLM	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01345	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01345	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01345	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01348	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01348	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01348	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01348	CLM	DPYD	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01348	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01348	CLM	SLCO1B1	*1/*20	Normal Function		Normal
+HG01348	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01348	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01348	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01350	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01350	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01350	CLM	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01350	CLM	DPYD	c.1601G>A (*4)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01350	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01350	CLM	SLCO1B1	*37/*37	Normal Function		Normal
+HG01350	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01350	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01350	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01351	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01351	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01351	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01351	CLM	DPYD	c.85T>C (*9A)/[c.1601G>A (*4) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01351	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01351	CLM	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01351	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01351	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01351	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01353	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01353	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01353	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01353	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01353	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01353	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01353	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01353	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01353	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01354	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01354	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01354	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01354	CLM	DPYD	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01354	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01354	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01354	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01354	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01354	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01356	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01356	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01356	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01356	CLM	DPYD	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	Normal
+HG01356	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01356	CLM	SLCO1B1	*14/*15	Decreased Function		Intermedio
+HG01356	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01356	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01356	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01357	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01357	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01357	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01357	CLM	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01357	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01357	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01357	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01357	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01357	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01359	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01359	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01359	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01359	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01359	CLM	NUDT15	*1/*4	Intermediate Metabolizer		Intermedio
+HG01359	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01359	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01359	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01359	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01360	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01360	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01360	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01360	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01360	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01360	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01360	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01360	CLM	UGT1A1	*1/*6	Intermediate Metabolizer		Intermedio
+HG01360	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01362	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01362	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01362	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01362	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01362	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01362	CLM	SLCO1B1	*5/*20	Decreased Function		Intermedio
+HG01362	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01362	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01362	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01363	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01363	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01363	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01363	CLM	DPYD	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	Normal
+HG01363	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01363	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01363	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01363	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01363	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01365	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01365	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01365	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01365	CLM	DPYD	Reference/[c.85T>C (*9A) + c.525G>A]	Indeterminate	 	Indeterminado
+HG01365	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01365	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01365	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01365	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01365	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01366	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01366	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01366	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01366	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01366	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01366	CLM	SLCO1B1	*20/*37	Normal Function		Normal
+HG01366	CLM	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01366	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01366	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01369	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01369	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01369	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01369	CLM	DPYD	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01369	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01369	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01369	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01369	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01369	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01372	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01372	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01372	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01372	CLM	DPYD	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01372	CLM	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01372	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01372	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01372	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01372	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01374	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01374	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01374	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01374	CLM	DPYD	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01374	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01374	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01374	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01374	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01374	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01375	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01375	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01375	CLM	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01375	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01375	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01375	CLM	SLCO1B1	*14/*15	Decreased Function		Intermedio
+HG01375	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01375	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01375	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01377	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01377	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01377	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01377	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01377	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01377	CLM	SLCO1B1	*37/*45	Decreased Function		Intermedio
+HG01377	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01377	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01377	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01378	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01378	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01378	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01378	CLM	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01378	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01378	CLM	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01378	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01378	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01378	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01383	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01383	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01383	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01383	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01383	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01383	CLM	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01383	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01383	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01383	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01384	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01384	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01384	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01384	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01384	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01384	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01384	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01384	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01384	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01389	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01389	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01389	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01389	CLM	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01389	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01389	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01389	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01389	CLM	UGT1A1	*6/*80+*28	Poor Metabolizer		Pobre
+HG01389	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01390	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01390	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01390	CLM	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01390	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01390	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01390	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01390	CLM	TPMT	*1/*8	Normal Metabolizer		Normal
+HG01390	CLM	UGT1A1	*6/*80+*28	Poor Metabolizer		Pobre
+HG01390	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01431	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01431	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01431	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01431	CLM	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01431	CLM	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01431	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01431	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01431	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01431	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01432	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01432	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01432	CLM	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01432	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01432	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01432	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01432	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01432	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01432	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01435	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01435	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01435	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01435	CLM	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01435	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01435	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01435	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01435	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01435	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01437	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01437	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01437	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01437	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01437	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01437	CLM	SLCO1B1	*1/*20	Normal Function		Normal
+HG01437	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01437	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01437	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01438	CLM	CYP2C19	no call			Indeterminado
+HG01438	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01438	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01438	CLM	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01438	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01438	CLM	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01438	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01438	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01438	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01440	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01440	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01440	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01440	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01440	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01440	CLM	SLCO1B1	*14/*20	Increased Function		Rápido
+HG01440	CLM	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01440	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01440	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01441	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01441	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01441	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01441	CLM	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01441	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01441	CLM	SLCO1B1	*20/*37	Normal Function		Normal
+HG01441	CLM	TPMT	*1/*2	Intermediate Metabolizer		Intermedio
+HG01441	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01441	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01443	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01443	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01443	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01443	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01443	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01443	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01443	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01443	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01443	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01444	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01444	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01444	CLM	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01444	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01444	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01444	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01444	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01444	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01444	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01447	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01447	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01447	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01447	CLM	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01447	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01447	CLM	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01447	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01447	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01447	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01455	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01455	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01455	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01455	CLM	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01455	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01455	CLM	SLCO1B1	*15/*15	Poor Function		Pobre
+HG01455	CLM	TPMT	*1/*2	Intermediate Metabolizer		Intermedio
+HG01455	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01455	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01456	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01456	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01456	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01456	CLM	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01456	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01456	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01456	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01456	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01456	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01459	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01459	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01459	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01459	CLM	DPYD	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01459	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01459	CLM	SLCO1B1	*1/*20	Normal Function		Normal
+HG01459	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01459	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01459	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01461	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01461	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01461	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01461	CLM	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01461	CLM	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01461	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01461	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01461	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01461	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01462	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01462	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01462	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01462	CLM	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01462	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01462	CLM	SLCO1B1	*1/*53	 		Indeterminado
+HG01462	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01462	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01462	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01464	CLM	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01464	CLM	CYP2C9	*2/*3	Poor Metabolizer	0.5	Pobre
+HG01464	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01464	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01464	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01464	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01464	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01464	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01464	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01465	CLM	CYP2C19	*17/*38	Rapid Metabolizer		Rápido
+HG01465	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01465	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01465	CLM	DPYD	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01465	CLM	NUDT15	*1/*4	Intermediate Metabolizer		Intermedio
+HG01465	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01465	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01465	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01465	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01468	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01468	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01468	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01468	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01468	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01468	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01468	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01468	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01468	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01474	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01474	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01474	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01474	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01474	CLM	NUDT15	*1/*4	Intermediate Metabolizer		Intermedio
+HG01474	CLM	SLCO1B1	*1/*14	Normal Function		Normal
+HG01474	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01474	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01474	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01479	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01479	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01479	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01479	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01479	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01479	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01479	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01479	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01479	CLM	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01485	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01485	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01485	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01485	CLM	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01485	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01485	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01485	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01485	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01485	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01486	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01486	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01486	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01486	CLM	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01486	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01486	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01486	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01486	CLM	UGT1A1	*1/*6	Intermediate Metabolizer		Intermedio
+HG01486	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01488	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01488	CLM	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01488	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01488	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01488	CLM	NUDT15	*1/*6	Intermediate Metabolizer		Intermedio
+HG01488	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01488	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01488	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01488	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01489	CLM	CYP2C19	*2/*38	Intermediate Metabolizer		Intermedio
+HG01489	CLM	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01489	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01489	CLM	DPYD	c.85T>C (*9A)/c.775A>G	Normal Metabolizer	2.0	Normal
+HG01489	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01489	CLM	SLCO1B1	*1/*37	Normal Function		Normal
+HG01489	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01489	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01489	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01491	CLM	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01491	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01491	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01491	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01491	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01491	CLM	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01491	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01491	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01491	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01492	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01492	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01492	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01492	CLM	DPYD	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01492	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01492	CLM	SLCO1B1	*5/*37	Decreased Function		Intermedio
+HG01492	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01492	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01492	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01494	CLM	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01494	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01494	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01494	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01494	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01494	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01494	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01494	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01494	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01495	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01495	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01495	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01495	CLM	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01495	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01495	CLM	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01495	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01495	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01495	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01497	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01497	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01497	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01497	CLM	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01497	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01497	CLM	SLCO1B1	*1/*1	Normal Function		Normal
+HG01497	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01497	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01497	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01498	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01498	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01498	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01498	CLM	DPYD	c.1129-5923C>G, c.1236G>A (HapB3)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01498	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01498	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01498	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01498	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01498	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01550	CLM	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01550	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01550	CLM	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01550	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01550	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01550	CLM	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01550	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01550	CLM	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01550	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01551	CLM	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01551	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01551	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01551	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01551	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01551	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01551	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01551	CLM	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01551	CLM	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01556	CLM	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01556	CLM	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01556	CLM	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01556	CLM	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01556	CLM	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01556	CLM	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01556	CLM	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01556	CLM	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01556	CLM	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19648	MXL	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+NA19648	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19648	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19648	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19648	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19648	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19648	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19648	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19648	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19649	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19649	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19649	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19649	MXL	DPYD	c.1627A>G (*5)/[c.1129-5923C>G, c.1236G>A (HapB3) + c.1601G>A (*4)]	Indeterminate	 	Indeterminado
+NA19649	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19649	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19649	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19649	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19649	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19651	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19651	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19651	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19651	MXL	DPYD	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+NA19651	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19651	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19651	MXL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+NA19651	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19651	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19652	MXL	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+NA19652	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19652	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19652	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19652	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19652	MXL	SLCO1B1	*5/*37	Decreased Function		Intermedio
+NA19652	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19652	MXL	UGT1A1	*1/*6	Intermediate Metabolizer		Intermedio
+NA19652	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19654	MXL	CYP2C19	*1/*38	Normal Metabolizer		Normal
+NA19654	MXL	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+NA19654	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19654	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19654	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19654	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19654	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19654	MXL	UGT1A1	*6/*80+*28	Poor Metabolizer		Pobre
+NA19654	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19655	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19655	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19655	MXL	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+NA19655	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19655	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19655	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19655	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19655	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19655	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19657	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19657	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19657	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19657	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19657	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19657	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19657	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19657	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19657	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19658	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19658	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19658	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19658	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+NA19658	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19658	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19658	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19658	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19658	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19661	MXL	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+NA19661	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19661	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19661	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19661	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19661	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19661	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19661	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19661	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19663	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19663	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19663	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19663	MXL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+NA19663	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19663	MXL	SLCO1B1	*14/*15	Decreased Function		Intermedio
+NA19663	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19663	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19663	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19664	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19664	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19664	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19664	MXL	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+NA19664	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19664	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19664	MXL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+NA19664	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19664	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19669	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19669	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19669	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19669	MXL	DPYD	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	Normal
+NA19669	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19669	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19669	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19669	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19669	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19670	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19670	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19670	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19670	MXL	DPYD	Reference/[c.1601G>A (*4) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+NA19670	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19670	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19670	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19670	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19670	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19676	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19676	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19676	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19676	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19676	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19676	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19676	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19676	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19676	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19678	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19678	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19678	MXL	CYP3A5	*1/*1	Normal Metabolizer		Normal
+NA19678	MXL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19678	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19678	MXL	SLCO1B1	*37/*37	Normal Function		Normal
+NA19678	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19678	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19678	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19679	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19679	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19679	MXL	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+NA19679	MXL	DPYD	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	Normal
+NA19679	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19679	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19679	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19679	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19679	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19681	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19681	MXL	CYP2C9	no call			Indeterminado
+NA19681	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19681	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+NA19681	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19681	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19681	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19681	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19681	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19682	MXL	CYP2C19	*2/*2	Poor Metabolizer		Pobre
+NA19682	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19682	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19682	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19682	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19682	MXL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+NA19682	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19682	MXL	UGT1A1	*1/*6	Intermediate Metabolizer		Intermedio
+NA19682	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19684	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19684	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19684	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19684	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19684	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19684	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19684	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19684	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19684	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19716	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19716	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19716	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19716	MXL	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19716	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19716	MXL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+NA19716	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19716	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19716	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19717	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19717	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19717	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19717	MXL	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19717	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19717	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19717	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19717	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19717	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19719	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19719	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19719	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19719	MXL	DPYD	c.1627A>G (*5)/c.2846A>T	Intermediate Metabolizer	1.5	Intermedio
+NA19719	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19719	MXL	SLCO1B1	*1/*5	Decreased Function		Intermedio
+NA19719	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19719	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19719	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19720	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19720	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19720	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19720	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19720	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19720	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19720	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19720	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19720	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19722	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19722	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19722	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19722	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19722	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19722	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19722	MXL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+NA19722	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19722	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19723	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19723	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19723	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19723	MXL	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19723	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19723	MXL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+NA19723	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19723	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19723	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19725	MXL	CYP2C19	*17/*38	Rapid Metabolizer		Rápido
+NA19725	MXL	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+NA19725	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19725	MXL	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19725	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19725	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19725	MXL	TPMT	*3C/*24	Possible Intermediate Metabolizer		Intermedio
+NA19725	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19725	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19726	MXL	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+NA19726	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19726	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19726	MXL	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19726	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19726	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19726	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19726	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19726	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19728	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19728	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19728	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19728	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19728	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19728	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19728	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19728	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19728	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19729	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19729	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19729	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19729	MXL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19729	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19729	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19729	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19729	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19729	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19731	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19731	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19731	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19731	MXL	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+NA19731	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19731	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19731	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19731	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19731	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19732	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19732	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19732	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19732	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19732	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19732	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19732	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19732	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19732	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19734	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19734	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19734	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19734	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19734	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19734	MXL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+NA19734	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19734	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19734	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19735	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19735	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19735	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19735	MXL	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+NA19735	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19735	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19735	MXL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+NA19735	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19735	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19740	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19740	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19740	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19740	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19740	MXL	NUDT15	*1/*4	Intermediate Metabolizer		Intermedio
+NA19740	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19740	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19740	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19740	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19741	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19741	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19741	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19741	MXL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.868A>G + c.1218G>A]	Indeterminate	 	Indeterminado
+NA19741	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19741	MXL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+NA19741	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19741	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19741	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19746	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19746	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19746	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19746	MXL	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19746	MXL	NUDT15	*1/*4	Intermediate Metabolizer		Intermedio
+NA19746	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19746	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19746	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19746	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19747	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19747	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19747	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19747	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1218G>A + c.1577C>G + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+NA19747	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19747	MXL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+NA19747	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19747	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19747	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19749	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19749	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19749	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19749	MXL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19749	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19749	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19749	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19749	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19749	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19750	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19750	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19750	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19750	MXL	DPYD	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19750	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19750	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19750	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19750	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19750	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19752	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19752	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19752	MXL	CYP3A5	*1/*1	Normal Metabolizer		Normal
+NA19752	MXL	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+NA19752	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19752	MXL	SLCO1B1	*37/*37	Normal Function		Normal
+NA19752	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19752	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19752	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19755	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19755	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19755	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19755	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+NA19755	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19755	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19755	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19755	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19755	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19756	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19756	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19756	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19756	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+NA19756	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19756	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19756	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19756	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19756	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19758	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19758	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19758	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19758	MXL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+NA19758	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19758	MXL	SLCO1B1	*37/*37	Normal Function		Normal
+NA19758	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19758	MXL	UGT1A1	*80+*28/*80+*37	Poor Metabolizer		Pobre
+NA19758	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19759	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19759	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19759	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19759	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19759	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19759	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19759	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19759	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19759	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19761	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19761	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19761	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19761	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19761	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19761	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19761	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19761	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19761	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19762	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19762	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19762	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19762	MXL	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+NA19762	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19762	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19762	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19762	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19762	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19764	MXL	CYP2C19	*1/*4	Intermediate Metabolizer		Intermedio
+NA19764	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19764	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19764	MXL	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19764	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19764	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19764	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19764	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19764	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19770	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19770	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19770	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19770	MXL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19770	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19770	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19770	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19770	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19770	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19771	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19771	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19771	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19771	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19771	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19771	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19771	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19771	MXL	UGT1A1	*36/*36	Normal Metabolizer		Normal
+NA19771	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19773	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19773	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19773	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19773	MXL	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+NA19773	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19773	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19773	MXL	TPMT	*1/*24	Indeterminate		Indeterminado
+NA19773	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19773	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19774	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19774	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19774	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19774	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19774	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19774	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19774	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19774	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19774	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19776	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19776	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19776	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19776	MXL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+NA19776	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19776	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19776	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19776	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19776	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19777	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19777	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19777	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19777	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19777	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19777	MXL	SLCO1B1	*37/*37	Normal Function		Normal
+NA19777	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19777	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19777	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19779	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19779	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19779	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19779	MXL	DPYD	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+NA19779	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19779	MXL	SLCO1B1	*1/*14	Normal Function		Normal
+NA19779	MXL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+NA19779	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19779	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19780	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19780	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19780	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19780	MXL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+NA19780	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19780	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19780	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19780	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19780	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19782	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19782	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19782	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19782	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19782	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19782	MXL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+NA19782	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19782	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19782	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19783	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19783	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19783	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19783	MXL	DPYD	c.1627A>G (*5)/c.2161G>A	Normal Metabolizer	2.0	Normal
+NA19783	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19783	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19783	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19783	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19783	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19785	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19785	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19785	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19785	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19785	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19785	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19785	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19785	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19785	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19786	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19786	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19786	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19786	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19786	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19786	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19786	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19786	MXL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+NA19786	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19788	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19788	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19788	MXL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+NA19788	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19788	MXL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+NA19788	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19788	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19788	MXL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+NA19788	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19789	MXL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+NA19789	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19789	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19789	MXL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+NA19789	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19789	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19789	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19789	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19789	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+NA19792	MXL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+NA19792	MXL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+NA19792	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19792	MXL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+NA19792	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19792	MXL	SLCO1B1	*1/*20	Normal Function		Normal
+NA19792	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19792	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19792	MXL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+NA19794	MXL	CYP2C19	*1/*38	Normal Metabolizer		Normal
+NA19794	MXL	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+NA19794	MXL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+NA19794	MXL	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+NA19794	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19794	MXL	SLCO1B1	*1/*37	Normal Function		Normal
+NA19794	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19794	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19794	MXL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+NA19795	MXL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+NA19795	MXL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+NA19795	MXL	CYP3A5	*1/*6	Intermediate Metabolizer		Intermedio
+NA19795	MXL	DPYD	c.1896T>C/[c.85T>C (*9A) + c.496A>G + c.2977C>T]	Indeterminate	 	Indeterminado
+NA19795	MXL	NUDT15	*1/*1	Normal Metabolizer		Normal
+NA19795	MXL	SLCO1B1	*1/*1	Normal Function		Normal
+NA19795	MXL	TPMT	*1/*1	Normal Metabolizer		Normal
+NA19795	MXL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+NA19795	MXL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01565	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01565	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01565	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01565	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01565	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01565	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01565	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01565	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01565	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01566	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01566	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01566	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01566	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01566	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01566	PEL	SLCO1B1	*1/*14	Normal Function		Normal
+HG01566	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01566	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01566	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01571	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01571	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01571	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01571	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01571	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01571	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01571	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01571	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01571	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01572	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01572	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01572	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01572	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01572	PEL	NUDT15	*1/*6	Intermediate Metabolizer		Intermedio
+HG01572	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01572	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01572	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01572	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01577	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01577	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01577	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01577	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01577	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01577	PEL	SLCO1B1	*15/*45	Poor Function		Pobre
+HG01577	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01577	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01577	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01578	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01578	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01578	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01578	PEL	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01578	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01578	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01578	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01578	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01578	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01892	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01892	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01892	PEL	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01892	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01892	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01892	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01892	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01892	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01892	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01893	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01893	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01893	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01893	PEL	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01893	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01893	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01893	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01893	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01893	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01917	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01917	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01917	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01917	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01917	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01917	PEL	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01917	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01917	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01917	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01918	PEL	CYP2C19	*2/*35	Poor Metabolizer		Pobre
+HG01918	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01918	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01918	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01918	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01918	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01918	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01918	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01918	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01920	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01920	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01920	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01920	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01920	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01920	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01920	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01920	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01920	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01921	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01921	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01921	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01921	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01921	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01921	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01921	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01921	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01921	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01923	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01923	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01923	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01923	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01923	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01923	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01923	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01923	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01923	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01924	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01924	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01924	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01924	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01924	PEL	NUDT15	*3/*3	Poor Metabolizer		Pobre
+HG01924	PEL	SLCO1B1	*1/*27	Indeterminate		Indeterminado
+HG01924	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01924	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01924	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01926	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01926	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01926	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01926	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01926	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01926	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01926	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01926	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01926	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01927	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01927	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01927	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01927	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01927	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01927	PEL	SLCO1B1	*15/*15	Poor Function		Pobre
+HG01927	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01927	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01927	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01932	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01932	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01932	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01932	PEL	DPYD	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01932	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01932	PEL	SLCO1B1	*14/*37	Normal Function		Normal
+HG01932	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01932	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01932	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01933	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01933	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01933	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01933	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01933	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01933	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01933	PEL	TPMT	*1/*8	Normal Metabolizer		Normal
+HG01933	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01933	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01935	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01935	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01935	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01935	PEL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01935	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01935	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01935	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01935	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01935	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01936	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01936	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01936	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01936	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01936	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01936	PEL	SLCO1B1	*15/*31	Poor Function		Pobre
+HG01936	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01936	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01936	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01938	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01938	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01938	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01938	PEL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01938	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01938	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01938	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01938	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01938	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01939	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01939	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01939	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01939	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01939	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01939	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01939	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01939	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01939	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01941	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01941	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01941	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01941	PEL	DPYD	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01941	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01941	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01941	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01941	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01941	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01942	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01942	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01942	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01942	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01942	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01942	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01942	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01942	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01942	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01944	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01944	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01944	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01944	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01944	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01944	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01944	PEL	TPMT	*1/*2	Intermediate Metabolizer		Intermedio
+HG01944	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01944	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01945	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01945	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01945	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01945	PEL	DPYD	c.1627A>G (*5)/[c.451A>G + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01945	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01945	PEL	SLCO1B1	*1/*20	Normal Function		Normal
+HG01945	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01945	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01945	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01947	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01947	PEL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01947	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01947	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01947	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01947	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01947	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01947	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01947	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01948	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01948	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01948	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01948	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01948	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01948	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01948	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01948	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01948	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01950	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01950	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01950	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01950	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01950	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01950	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01950	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01950	PEL	UGT1A1	*1/*36	Normal Metabolizer		Normal
+HG01950	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01951	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01951	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01951	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01951	PEL	DPYD	c.85T>C (*9A)/c.451A>G	Normal Metabolizer	2.0	Normal
+HG01951	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01951	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01951	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01951	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01951	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01953	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01953	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01953	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01953	PEL	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01953	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01953	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01953	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01953	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01953	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01954	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01954	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01954	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01954	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01954	PEL	NUDT15	*3/*3	Poor Metabolizer		Pobre
+HG01954	PEL	SLCO1B1	*37/*37	Normal Function		Normal
+HG01954	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01954	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01954	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01961	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01961	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01961	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01961	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01961	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01961	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01961	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01961	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01961	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01965	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01965	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01965	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01965	PEL	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01965	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01965	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01965	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01965	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01965	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01967	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01967	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01967	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01967	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01967	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01967	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01967	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01967	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01967	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01968	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01968	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01968	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01968	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01968	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01968	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01968	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01968	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01968	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01970	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01970	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01970	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01970	PEL	DPYD	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	Normal
+HG01970	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01970	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01970	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01970	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01970	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01971	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01971	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01971	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01971	PEL	DPYD	Reference/c.451A>G	Normal Metabolizer	2.0	Normal
+HG01971	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01971	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01971	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01971	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01971	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01973	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01973	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01973	PEL	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01973	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01973	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01973	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01973	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01973	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01973	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01974	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01974	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01974	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01974	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01974	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01974	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01974	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01974	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01974	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01976	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01976	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01976	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01976	PEL	DPYD	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01976	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01976	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01976	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01976	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01976	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01977	PEL	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01977	PEL	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01977	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01977	PEL	DPYD	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01977	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01977	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01977	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01977	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01977	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01979	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01979	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01979	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01979	PEL	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01979	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01979	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG01979	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01979	PEL	UGT1A1	*1/*28	Intermediate Metabolizer		Intermedio
+HG01979	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01980	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01980	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01980	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01980	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01980	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01980	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01980	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01980	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01980	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01982	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01982	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01982	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01982	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01982	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01982	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01982	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01982	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01982	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01991	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01991	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01991	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01991	PEL	DPYD	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01991	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01991	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01991	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01991	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01991	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01992	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01992	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01992	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01992	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01992	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01992	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01992	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01992	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01992	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01997	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01997	PEL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01997	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01997	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01997	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG01997	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG01997	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01997	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01997	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02002	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG02002	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02002	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02002	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5) + c.1905+1G>A (*2A)]	Indeterminate	 	Indeterminado
+HG02002	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02002	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02002	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02002	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02002	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02003	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02003	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02003	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02003	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02003	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG02003	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG02003	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02003	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02003	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02006	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG02006	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02006	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02006	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02006	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02006	PEL	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG02006	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02006	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02006	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02008	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02008	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02008	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02008	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02008	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02008	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02008	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02008	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02008	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG02089	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02089	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02089	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02089	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02089	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02089	PEL	SLCO1B1	*37/*37	Normal Function		Normal
+HG02089	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG02089	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02089	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02090	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02090	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02090	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02090	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	 	Indeterminado
+HG02090	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02090	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02090	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02090	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02090	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02102	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02102	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02102	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02102	PEL	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02102	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02102	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG02102	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02102	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02102	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG02104	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02104	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02104	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02104	PEL	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02104	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02104	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02104	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02104	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02104	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02105	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02105	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02105	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02105	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG02105	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02105	PEL	SLCO1B1	*37/*37	Normal Function		Normal
+HG02105	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02105	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02105	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02146	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02146	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02146	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02146	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02146	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG02146	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG02146	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02146	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02146	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02147	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02147	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02147	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02147	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02147	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02147	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02147	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02147	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02147	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02150	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02150	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02150	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02150	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG02150	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02150	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02150	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG02150	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02150	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02252	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02252	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02252	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02252	PEL	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG02252	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02252	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02252	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02252	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02252	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02253	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02253	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02253	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02253	PEL	DPYD	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	 	Indeterminado
+HG02253	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02253	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02253	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02253	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02253	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02259	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02259	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02259	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02259	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02259	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG02259	PEL	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG02259	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02259	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02259	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG02260	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02260	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02260	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02260	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02260	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02260	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02260	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02260	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02260	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02262	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02262	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02262	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02262	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG02262	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG02262	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02262	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02262	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02262	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG02265	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02265	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02265	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02265	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02265	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02265	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG02265	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02265	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02265	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02266	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02266	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02266	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02266	PEL	DPYD	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG02266	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02266	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02266	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02266	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02266	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02271	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02271	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02271	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02271	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02271	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02271	PEL	SLCO1B1	*1/*20	Normal Function		Normal
+HG02271	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02271	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02271	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02272	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02272	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02272	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02272	PEL	DPYD	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG02272	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02272	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02272	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG02272	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02272	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02274	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG02274	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02274	PEL	CYP3A5	*3/*7	Poor Metabolizer		Pobre
+HG02274	PEL	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG02274	PEL	NUDT15	*1/*3	Intermediate Metabolizer		Intermedio
+HG02274	PEL	SLCO1B1	*19/*37	Indeterminate		Indeterminado
+HG02274	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02274	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02274	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02275	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02275	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02275	PEL	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG02275	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02275	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02275	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02275	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02275	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02275	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02277	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02277	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02277	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02277	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02277	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02277	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02277	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02277	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02277	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02278	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02278	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02278	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02278	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG02278	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02278	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02278	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02278	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02278	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02285	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG02285	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02285	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02285	PEL	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02285	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02285	PEL	SLCO1B1	*37/*37	Normal Function		Normal
+HG02285	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02285	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02285	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02286	PEL	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG02286	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02286	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02286	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02286	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02286	PEL	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG02286	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02286	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02286	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02291	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG02291	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02291	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02291	PEL	DPYD	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG02291	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02291	PEL	SLCO1B1	*20/*37	Normal Function		Normal
+HG02291	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG02291	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02291	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02292	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02292	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02292	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02292	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02292	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02292	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02292	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02292	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02292	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02298	PEL	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG02298	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02298	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02298	PEL	DPYD	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG02298	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02298	PEL	SLCO1B1	*1/*14	Normal Function		Normal
+HG02298	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02298	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02298	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG02299	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02299	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02299	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02299	PEL	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG02299	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02299	PEL	SLCO1B1	*14/*37	Normal Function		Normal
+HG02299	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02299	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02299	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02301	PEL	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG02301	PEL	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG02301	PEL	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG02301	PEL	DPYD	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	Normal
+HG02301	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02301	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02301	PEL	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG02301	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02301	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02304	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02304	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02304	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02304	PEL	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG02304	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02304	PEL	SLCO1B1	*1/*20	Normal Function		Normal
+HG02304	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02304	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02304	PEL	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG02312	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02312	PEL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG02312	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02312	PEL	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG02312	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02312	PEL	SLCO1B1	*1/*1	Normal Function		Normal
+HG02312	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02312	PEL	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG02312	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02345	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02345	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02345	PEL	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG02345	PEL	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG02345	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02345	PEL	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG02345	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02345	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02345	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02348	PEL	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG02348	PEL	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG02348	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02348	PEL	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG02348	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02348	PEL	SLCO1B1	*37/*37	Normal Function		Normal
+HG02348	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02348	PEL	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG02348	PEL	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG02425	PEL	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG02425	PEL	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG02425	PEL	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG02425	PEL	DPYD	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG02425	PEL	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG02425	PEL	SLCO1B1	*1/*37	Normal Function		Normal
+HG02425	PEL	TPMT	*1/*1	Normal Metabolizer		Normal
+HG02425	PEL	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG02425	PEL	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00551	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00551	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00551	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00551	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG00551	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00551	PUR	SLCO1B1	*37/*37	Normal Function		Normal
+HG00551	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00551	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG00551	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00553	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG00553	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00553	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG00553	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG00553	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00553	PUR	SLCO1B1	*27/*37	Indeterminate		Indeterminado
+HG00553	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00553	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00553	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00554	PUR	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG00554	PUR	CYP2C9	*2/*3	Poor Metabolizer	0.5	Pobre
+HG00554	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG00554	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG00554	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00554	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG00554	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00554	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG00554	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG00637	PUR	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG00637	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG00637	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00637	PUR	DPYD	c.496A>G/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG00637	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00637	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG00637	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG00637	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00637	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG00638	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG00638	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00638	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00638	PUR	DPYD	c.496A>G/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG00638	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00638	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG00638	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00638	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG00638	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00640	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG00640	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00640	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00640	PUR	DPYD	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG00640	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00640	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG00640	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00640	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00640	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00641	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG00641	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00641	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00641	PUR	DPYD	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG00641	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00641	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG00641	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00641	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00641	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00731	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG00731	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG00731	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00731	PUR	DPYD	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG00731	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00731	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG00731	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00731	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG00731	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00732	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00732	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG00732	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG00732	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG00732	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00732	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG00732	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00732	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00732	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00734	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG00734	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00734	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00734	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG00734	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00734	PUR	SLCO1B1	no call			Indeterminado
+HG00734	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00734	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00734	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG00736	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG00736	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG00736	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00736	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG00736	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00736	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG00736	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00736	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG00736	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00737	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00737	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG00737	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00737	PUR	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG00737	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00737	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG00737	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00737	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG00737	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00739	PUR	CYP2C19	*2/*2	Poor Metabolizer		Pobre
+HG00739	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00739	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00739	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG00739	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00739	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG00739	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00739	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG00739	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00740	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00740	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG00740	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00740	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG00740	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00740	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG00740	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00740	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG00740	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG00742	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00742	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00742	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00742	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG00742	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00742	PUR	SLCO1B1	*14/*31	Decreased Function		Intermedio
+HG00742	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG00742	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG00742	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG00743	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG00743	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG00743	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG00743	PUR	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG00743	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG00743	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG00743	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG00743	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG00743	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01047	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01047	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01047	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01047	PUR	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	 	Indeterminado
+HG01047	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01047	PUR	SLCO1B1	*20/*37	Normal Function		Normal
+HG01047	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01047	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01047	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01048	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01048	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01048	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01048	PUR	DPYD	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01048	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01048	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01048	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01048	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01048	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01049	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01049	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01049	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01049	PUR	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01049	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01049	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01049	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01049	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01049	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01051	PUR	CYP2C19	*9/*13	Likely Intermediate Metabolizer		Intermedio
+HG01051	PUR	CYP2C9	*1/*8	Intermediate Metabolizer	1.5	Intermedio
+HG01051	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01051	PUR	DPYD	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01051	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01051	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01051	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01051	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01051	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01052	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01052	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01052	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01052	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01052	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01052	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01052	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01052	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01052	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01054	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01054	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01054	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01054	PUR	DPYD	Reference/c.496A>G	Normal Metabolizer	2.0	Normal
+HG01054	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01054	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01054	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01054	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01054	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01055	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01055	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01055	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01055	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01055	PUR	NUDT15	*1/*9	Intermediate Metabolizer		Intermedio
+HG01055	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01055	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01055	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01055	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01058	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01058	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01058	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01058	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01058	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01058	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01058	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01058	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01058	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01060	PUR	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+HG01060	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01060	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01060	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01060	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01060	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01060	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01060	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01060	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01061	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01061	PUR	CYP2C9	no call			Indeterminado
+HG01061	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01061	PUR	DPYD	c.1896T>C/[c.85T>C (*9A) + c.775A>G]	Indeterminate	 	Indeterminado
+HG01061	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01061	PUR	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01061	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01061	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01061	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01063	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01063	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01063	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01063	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01063	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01063	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01063	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01063	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01063	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01064	PUR	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01064	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01064	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01064	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01064	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01064	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01064	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01064	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01064	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01066	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01066	PUR	CYP2C9	*2/*2	Intermediate Metabolizer	1.0	Intermedio
+HG01066	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01066	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01066	PUR	NUDT15	*1/*9	Intermediate Metabolizer		Intermedio
+HG01066	PUR	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01066	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01066	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01066	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01067	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01067	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01067	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01067	PUR	DPYD	Reference/c.496A>G	Normal Metabolizer	2.0	Normal
+HG01067	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01067	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01067	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01067	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01067	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01069	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01069	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01069	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01069	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01069	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01069	PUR	SLCO1B1	*20/*37	Normal Function		Normal
+HG01069	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01069	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01069	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01070	PUR	CYP2C19	*2/*2	Poor Metabolizer		Pobre
+HG01070	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01070	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01070	PUR	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01070	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01070	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01070	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01070	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01070	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01072	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01072	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01072	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01072	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01072	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01072	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01072	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01072	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01072	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01073	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01073	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01073	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01073	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01073	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01073	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01073	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01073	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01073	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01075	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01075	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01075	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01075	PUR	DPYD	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01075	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01075	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01075	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01075	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01075	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01077	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01077	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01077	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01077	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01077	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01077	PUR	SLCO1B1	*15/*20	Decreased Function		Intermedio
+HG01077	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01077	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01077	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01079	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01079	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01079	PUR	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01079	PUR	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01079	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01079	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG01079	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01079	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01079	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01080	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01080	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01080	PUR	CYP3A5	*1/*6	Intermediate Metabolizer		Intermedio
+HG01080	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01080	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01080	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01080	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01080	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01080	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01082	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01082	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01082	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01082	PUR	DPYD	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	 	Indeterminado
+HG01082	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01082	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01082	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01082	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01082	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01083	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01083	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01083	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01083	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01083	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01083	PUR	SLCO1B1	*14/*20	Increased Function		Rápido
+HG01083	PUR	TPMT	*1/*2	Intermediate Metabolizer		Intermedio
+HG01083	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01083	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01085	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01085	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01085	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01085	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01085	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01085	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG01085	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01085	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01085	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01086	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01086	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01086	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01086	PUR	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	 	Indeterminado
+HG01086	PUR	NUDT15	*3/*9	Poor Metabolizer		Pobre
+HG01086	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01086	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01086	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01086	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01088	PUR	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+HG01088	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01088	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01088	PUR	DPYD	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	 	Indeterminado
+HG01088	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01088	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01088	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01088	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01088	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01089	PUR	CYP2C19	*1/*10	Likely Intermediate Metabolizer		Intermedio
+HG01089	PUR	CYP2C9	no call			Indeterminado
+HG01089	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01089	PUR	DPYD	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01089	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01089	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01089	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01089	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01089	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01092	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01092	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01092	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01092	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01092	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01092	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01092	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01092	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01092	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01094	PUR	CYP2C19	*17/*17	Ultrarapid Metabolizer		Ultrarrápido
+HG01094	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01094	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01094	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01094	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01094	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01094	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01094	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01094	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01095	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01095	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01095	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01095	PUR	DPYD	c.2194G>A (*6)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	 	Indeterminado
+HG01095	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01095	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01095	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01095	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01095	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01097	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01097	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01097	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01097	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01097	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01097	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01097	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01097	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01097	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01098	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01098	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01098	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01098	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01098	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01098	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01098	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01098	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01098	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01101	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01101	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01101	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01101	PUR	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01101	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01101	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01101	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01101	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01101	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01102	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01102	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01102	PUR	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01102	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01102	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01102	PUR	SLCO1B1	*14/*15	Decreased Function		Intermedio
+HG01102	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01102	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01102	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01104	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01104	PUR	CYP2C9	*1/*12	Intermediate Metabolizer	1.5	Intermedio
+HG01104	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01104	PUR	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01104	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01104	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01104	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01104	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01104	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01105	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01105	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01105	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01105	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01105	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01105	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01105	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01105	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01105	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01107	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01107	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01107	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01107	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01107	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01107	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01107	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01107	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01107	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01108	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01108	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01108	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01108	PUR	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01108	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01108	PUR	SLCO1B1	*1/*27	Indeterminate		Indeterminado
+HG01108	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01108	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01108	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01110	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01110	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01110	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01110	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01110	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01110	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01110	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01110	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01110	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01111	PUR	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01111	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01111	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01111	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01111	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01111	PUR	SLCO1B1	*14/*20	Increased Function		Rápido
+HG01111	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01111	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01111	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01161	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01161	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01161	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01161	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01161	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01161	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01161	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01161	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01161	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01162	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01162	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01162	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01162	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01162	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01162	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01162	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01162	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01162	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01164	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01164	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01164	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01164	PUR	DPYD	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01164	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01164	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01164	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01164	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01164	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01167	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01167	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01167	PUR	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01167	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01167	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01167	PUR	SLCO1B1	*37/*37	Normal Function		Normal
+HG01167	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01167	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01167	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01168	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01168	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01168	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01168	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01168	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01168	PUR	SLCO1B1	*20/*37	Normal Function		Normal
+HG01168	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01168	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01168	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01170	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01170	PUR	CYP2C9	*1/*5	Intermediate Metabolizer	1.5	Intermedio
+HG01170	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01170	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01170	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01170	PUR	SLCO1B1	*20/*37	Normal Function		Normal
+HG01170	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01170	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01170	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01171	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01171	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01171	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01171	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01171	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01171	PUR	SLCO1B1	*14/*15	Decreased Function		Intermedio
+HG01171	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01171	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01171	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01173	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01173	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01173	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01173	PUR	DPYD	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01173	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01173	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01173	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01173	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01173	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01174	PUR	CYP2C19	*1/*4	Intermediate Metabolizer		Intermedio
+HG01174	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01174	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01174	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01174	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01174	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01174	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01174	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01174	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01176	PUR	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01176	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01176	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01176	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01176	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01176	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01176	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01176	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01176	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01177	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01177	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01177	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01177	PUR	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01177	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01177	PUR	SLCO1B1	*1/*37	Normal Function		Normal
+HG01177	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01177	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01177	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01182	PUR	CYP2C19	*2/*17	Intermediate Metabolizer		Intermedio
+HG01182	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01182	PUR	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01182	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01182	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01182	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01182	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01182	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01182	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01183	PUR	CYP2C19	*1/*38	Normal Metabolizer		Normal
+HG01183	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01183	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01183	PUR	DPYD	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01183	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01183	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01183	PUR	TPMT	*3A/*3C	Poor Metabolizer		Pobre
+HG01183	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01183	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01187	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01187	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01187	PUR	CYP3A5	*1/*6	Intermediate Metabolizer		Intermedio
+HG01187	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01187	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01187	PUR	SLCO1B1	*1/*41	Decreased Function		Intermedio
+HG01187	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01187	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01187	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01188	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01188	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01188	PUR	CYP3A5	*1/*6	Intermediate Metabolizer		Intermedio
+HG01188	PUR	DPYD	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	Normal
+HG01188	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01188	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG01188	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01188	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01188	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01190	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01190	PUR	CYP2C9	*1/*61	Intermediate Metabolizer	1.5	Intermedio
+HG01190	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01190	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01190	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01190	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01190	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01190	PUR	UGT1A1	*1/*80+*37	Intermediate Metabolizer		Intermedio
+HG01190	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01191	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01191	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01191	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01191	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01191	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01191	PUR	SLCO1B1	*1/*5	Decreased Function		Intermedio
+HG01191	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01191	PUR	UGT1A1	*1/*36	Normal Metabolizer		Normal
+HG01191	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01197	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01197	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01197	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01197	PUR	DPYD	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01197	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01197	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01197	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01197	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01197	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01198	PUR	CYP2C19	*17/*38	Rapid Metabolizer		Rápido
+HG01198	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01198	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01198	PUR	DPYD	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01198	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01198	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01198	PUR	TPMT	*1/*3A	Intermediate Metabolizer		Intermedio
+HG01198	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01198	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01200	PUR	CYP2C19	*17/*38	Rapid Metabolizer		Rápido
+HG01200	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01200	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01200	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01200	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01200	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01200	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01200	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01200	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01204	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01204	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01204	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01204	PUR	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01204	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01204	PUR	SLCO1B1	*20/*20	Increased Function		Rápido
+HG01204	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01204	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01204	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01205	PUR	CYP2C19	*17/*38	Rapid Metabolizer		Rápido
+HG01205	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01205	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01205	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01205	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01205	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01205	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01205	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01205	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01241	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01241	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01241	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01241	PUR	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01241	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01241	PUR	SLCO1B1	*37/*37	Normal Function		Normal
+HG01241	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01241	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01241	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01242	PUR	CYP2C19	*13/*17	Rapid Metabolizer		Rápido
+HG01242	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01242	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01242	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01242	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01242	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01242	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01242	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01242	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01247	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01247	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01247	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01247	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01247	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01247	PUR	SLCO1B1	*14/*20	Increased Function		Rápido
+HG01247	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01247	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01247	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01248	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01248	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01248	PUR	CYP3A5	*3/*6	Poor Metabolizer		Pobre
+HG01248	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01248	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01248	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01248	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01248	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01248	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01286	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01286	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01286	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01286	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01286	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01286	PUR	SLCO1B1	*37/*37	Normal Function		Normal
+HG01286	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01286	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01286	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01302	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01302	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01302	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01302	PUR	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01302	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01302	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01302	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01302	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01302	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01303	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01303	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01303	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01303	PUR	DPYD	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01303	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01303	PUR	SLCO1B1	*15/*15	Poor Function		Pobre
+HG01303	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01303	PUR	UGT1A1	*80+*28/*80+*28	Poor Metabolizer		Pobre
+HG01303	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01305	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01305	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01305	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01305	PUR	DPYD	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01305	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01305	PUR	SLCO1B1	*37/*37	Normal Function		Normal
+HG01305	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01305	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01305	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01308	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01308	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01308	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01308	PUR	DPYD	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01308	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01308	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01308	PUR	TPMT	*1/*3C	Intermediate Metabolizer		Intermedio
+HG01308	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01308	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01311	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01311	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01311	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01311	PUR	DPYD	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01311	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01311	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01311	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01311	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01311	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01312	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01312	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01312	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01312	PUR	DPYD	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01312	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01312	PUR	SLCO1B1	*14/*14	Increased Function		Rápido
+HG01312	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01312	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01312	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01323	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01323	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01323	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01323	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01323	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01323	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01323	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01323	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01323	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01325	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01325	PUR	CYP2C9	*2/*61	Intermediate Metabolizer	1.0	Intermedio
+HG01325	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01325	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01325	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01325	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01325	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01325	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01325	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01326	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01326	PUR	CYP2C9	*1/*3	Intermediate Metabolizer	1.0	Intermedio
+HG01326	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01326	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01326	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01326	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01326	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01326	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01326	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01392	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01392	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01392	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01392	PUR	DPYD	Reference/c.1896T>C	Normal Metabolizer	2.0	Normal
+HG01392	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01392	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01392	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01392	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01392	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01393	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01393	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01393	PUR	CYP3A5	*6/*7	Poor Metabolizer		Pobre
+HG01393	PUR	DPYD	[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	 	Indeterminado
+HG01393	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01393	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01393	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01393	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01393	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01395	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01395	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01395	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01395	PUR	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01395	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01395	PUR	SLCO1B1	*15/*37	Decreased Function		Intermedio
+HG01395	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01395	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01395	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01396	PUR	CYP2C19	*1/*2	Intermediate Metabolizer		Intermedio
+HG01396	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01396	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01396	PUR	DPYD	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	Normal
+HG01396	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01396	PUR	SLCO1B1	*1/*15	Decreased Function		Intermedio
+HG01396	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01396	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01396	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01398	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01398	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01398	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01398	PUR	DPYD	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	 	Indeterminado
+HG01398	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01398	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG01398	PUR	TPMT	*3A/*3A	Poor Metabolizer		Pobre
+HG01398	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01398	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01402	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01402	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01402	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01402	PUR	DPYD	Reference/Reference	Normal Metabolizer	2.0	Normal
+HG01402	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01402	PUR	SLCO1B1	*1/*20	Normal Function		Normal
+HG01402	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01402	PUR	UGT1A1	*1/*1	Normal Metabolizer		Normal
+HG01402	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio
+HG01403	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01403	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01403	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01403	PUR	DPYD	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	 	Indeterminado
+HG01403	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01403	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01403	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01403	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01403	PUR	VKORC1	rs9923231 variant (T)/rs9923231 variant (T)			Pobre
+HG01405	PUR	CYP2C19	*1/*1	Normal Metabolizer		Normal
+HG01405	PUR	CYP2C9	*1/*2	Intermediate Metabolizer	1.5	Intermedio
+HG01405	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01405	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01405	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01405	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01405	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01405	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01405	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01412	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01412	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01412	PUR	CYP3A5	*1/*1	Normal Metabolizer		Normal
+HG01412	PUR	DPYD	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01412	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01412	PUR	SLCO1B1	*1/*14	Normal Function		Normal
+HG01412	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01412	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01412	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01413	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01413	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01413	PUR	CYP3A5	*3/*3	Poor Metabolizer		Pobre
+HG01413	PUR	DPYD	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	Normal
+HG01413	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01413	PUR	SLCO1B1	*1/*1	Normal Function		Normal
+HG01413	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01413	PUR	UGT1A1	*1/*80+*28	Intermediate Metabolizer		Intermedio
+HG01413	PUR	VKORC1	rs9923231 reference (C)/rs9923231 reference (C)			Normal
+HG01414	PUR	CYP2C19	*1/*17	Rapid Metabolizer		Rápido
+HG01414	PUR	CYP2C9	*1/*1	Normal Metabolizer	2.0	Normal
+HG01414	PUR	CYP3A5	*1/*3	Intermediate Metabolizer		Intermedio
+HG01414	PUR	DPYD	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	Normal
+HG01414	PUR	NUDT15	*1/*1	Normal Metabolizer		Normal
+HG01414	PUR	SLCO1B1	*14/*37	Normal Function		Normal
+HG01414	PUR	TPMT	*1/*1	Normal Metabolizer		Normal
+HG01414	PUR	UGT1A1	*1/*36	Normal Metabolizer		Normal
+HG01414	PUR	VKORC1	rs9923231 reference (C)/rs9923231 variant (T)			Intermedio

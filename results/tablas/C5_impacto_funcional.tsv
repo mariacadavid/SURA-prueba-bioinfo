@@ -1,0 +1,48 @@
+gen	impacto_funcional	n
+ATP7B	intronica	83
+ATP7B	missense	49
+ATP7B	sinonima	38
+ATP7B	UTR 3'	27
+ATP7B	UTR 5'	4
+ATP7B	genic_upstream_transcript_variant	3
+ATP7B	no anotado	3
+ATP7B	stop ganado (nonsense)	1
+BRCA1	intronica	513
+BRCA1	missense	58
+BRCA1	sinonima	23
+BRCA1	UTR 3'	15
+BRCA1	no anotado	6
+BRCA1	UTR 5'	3
+BRCA1	indel en marco	1
+BRCA2	intronica	517
+BRCA2	missense	111
+BRCA2	sinonima	46
+BRCA2	UTR 3'	15
+BRCA2	UTR 5'	9
+BRCA2	indel en marco	2
+BRCA2	no anotado	2
+BRCA2	stop ganado (nonsense)	2
+BRCA2	cambio de marco (frameshift)	1
+GAA	intronica	160
+GAA	missense	55
+GAA	sinonima	37
+GAA	UTR 3'	19
+GAA	UTR 5'	8
+GAA	no anotado	3
+GAA	genic_upstream_transcript_variant	1
+GAA	stop ganado (nonsense)	1
+RB1	intronica	123
+RB1	missense	18
+RB1	sinonima	14
+RB1	UTR 3'	13
+RB1	UTR 5'	5
+RB1	no codificante	2
+RB1	indel en marco	1
+RB1	no anotado	1
+RB1	stop ganado (nonsense)	1
+TP53	intronica	56
+TP53	missense	16
+TP53	sinonima	14
+TP53	UTR 3'	13
+TP53	UTR 5'	6
+TP53	no anotado	5

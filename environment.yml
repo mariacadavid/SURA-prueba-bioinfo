@@ -1,0 +1,28 @@
+# Entorno de la prueba técnica de bioinformática
+# Se instala en modo Intel (osx-64) porque ADMIXTURE no tiene versión para chip Apple (M1/M2/M3).
+# Las versiones exactas instaladas quedan fijadas en environment.lock.yml
+name: bioinfo-prueba
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  # Manejo de VCF y regiones
+  - bcftools=1.21
+  - htslib=1.21          # incluye bgzip y tabix
+  # Genética de poblaciones
+  - plink2
+  - admixture=1.3.0
+  # Anotación y farmacogenómica (Java)
+  - openjdk=21           # PharmCAT pide Java >= 17; SnpEff también usa Java
+  - snpeff
+  # Análisis, estadística y figuras
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - gseapy           # enriquecimiento de vías (proteómica)

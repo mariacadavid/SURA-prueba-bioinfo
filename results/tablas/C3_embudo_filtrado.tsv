@@ -1,0 +1,5 @@
+paso	variantes	portadores
+1. Variantes de 1000G con clasificacion en ClinVar	2104	814209
+2. Clasificadas Pathogenic / Likely pathogenic (sin conflicto)	12	36
+3. + nivel de revision >= 2 estrellas	12	36
+4. + frecuencia compatible con la enfermedad	12	36

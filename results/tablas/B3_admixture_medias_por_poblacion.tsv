@@ -1,0 +1,703 @@
+K	poblacion	color	componente	proporcion
+2	ACB	1	Africana (máx. en ESN)	0.881
+2	ACB	2	Asia oriental (máx. en JPT)	0.119
+2	ASW	1	Africana (máx. en ESN)	0.775
+2	ASW	2	Asia oriental (máx. en JPT)	0.225
+2	BEB	1	Africana (máx. en ESN)	0.011
+2	BEB	2	Asia oriental (máx. en JPT)	0.989
+2	CDX	1	Africana (máx. en ESN)	0.0
+2	CDX	2	Asia oriental (máx. en JPT)	1.0
+2	CEU	1	Africana (máx. en ESN)	0.012
+2	CEU	2	Asia oriental (máx. en JPT)	0.988
+2	CHB	1	Africana (máx. en ESN)	0.0
+2	CHB	2	Asia oriental (máx. en JPT)	1.0
+2	CHS	1	Africana (máx. en ESN)	0.0
+2	CHS	2	Asia oriental (máx. en JPT)	1.0
+2	CLM	1	Africana (máx. en ESN)	0.096
+2	CLM	2	Asia oriental (máx. en JPT)	0.904
+2	ESN	1	Africana (máx. en ESN)	1.0
+2	ESN	2	Asia oriental (máx. en JPT)	0.0
+2	FIN	1	Africana (máx. en ESN)	0.003
+2	FIN	2	Asia oriental (máx. en JPT)	0.997
+2	GBR	1	Africana (máx. en ESN)	0.009
+2	GBR	2	Asia oriental (máx. en JPT)	0.991
+2	GIH	1	Africana (máx. en ESN)	0.015
+2	GIH	2	Asia oriental (máx. en JPT)	0.985
+2	GWD	1	Africana (máx. en ESN)	0.987
+2	GWD	2	Asia oriental (máx. en JPT)	0.013
+2	IBS	1	Africana (máx. en ESN)	0.039
+2	IBS	2	Asia oriental (máx. en JPT)	0.961
+2	ITU	1	Africana (máx. en ESN)	0.017
+2	ITU	2	Asia oriental (máx. en JPT)	0.983
+2	JPT	1	Africana (máx. en ESN)	0.0
+2	JPT	2	Asia oriental (máx. en JPT)	1.0
+2	KHV	1	Africana (máx. en ESN)	0.0
+2	KHV	2	Asia oriental (máx. en JPT)	1.0
+2	LWK	1	Africana (máx. en ESN)	0.953
+2	LWK	2	Asia oriental (máx. en JPT)	0.047
+2	MSL	1	Africana (máx. en ESN)	1.0
+2	MSL	2	Asia oriental (máx. en JPT)	0.0
+2	MXL	1	Africana (máx. en ESN)	0.043
+2	MXL	2	Asia oriental (máx. en JPT)	0.957
+2	PEL	1	Africana (máx. en ESN)	0.025
+2	PEL	2	Asia oriental (máx. en JPT)	0.975
+2	PJL	1	Africana (máx. en ESN)	0.015
+2	PJL	2	Asia oriental (máx. en JPT)	0.985
+2	PUR	1	Africana (máx. en ESN)	0.162
+2	PUR	2	Asia oriental (máx. en JPT)	0.838
+2	STU	1	Africana (máx. en ESN)	0.019
+2	STU	2	Asia oriental (máx. en JPT)	0.981
+2	TSI	1	Africana (máx. en ESN)	0.025
+2	TSI	2	Asia oriental (máx. en JPT)	0.975
+2	YRI	1	Africana (máx. en ESN)	1.0
+2	YRI	2	Asia oriental (máx. en JPT)	0.0
+3	ACB	1	Africana (máx. en ESN)	0.876
+3	ACB	2	Europea (máx. en GBR)	0.117
+3	ACB	3	Asia oriental (máx. en CHS)	0.007
+3	ASW	1	Africana (máx. en ESN)	0.768
+3	ASW	2	Europea (máx. en GBR)	0.198
+3	ASW	3	Asia oriental (máx. en CHS)	0.034
+3	BEB	1	Africana (máx. en ESN)	0.004
+3	BEB	2	Europea (máx. en GBR)	0.589
+3	BEB	3	Asia oriental (máx. en CHS)	0.407
+3	CDX	1	Africana (máx. en ESN)	0.0
+3	CDX	2	Europea (máx. en GBR)	0.003
+3	CDX	3	Asia oriental (máx. en CHS)	0.997
+3	CEU	1	Africana (máx. en ESN)	0.001
+3	CEU	2	Europea (máx. en GBR)	0.996
+3	CEU	3	Asia oriental (máx. en CHS)	0.004
+3	CHB	1	Africana (máx. en ESN)	0.0
+3	CHB	2	Europea (máx. en GBR)	0.009
+3	CHB	3	Asia oriental (máx. en CHS)	0.991
+3	CHS	1	Africana (máx. en ESN)	0.0
+3	CHS	2	Europea (máx. en GBR)	0.001
+3	CHS	3	Asia oriental (máx. en CHS)	0.999
+3	CLM	1	Africana (máx. en ESN)	0.079
+3	CLM	2	Europea (máx. en GBR)	0.764
+3	CLM	3	Asia oriental (máx. en CHS)	0.158
+3	ESN	1	Africana (máx. en ESN)	1.0
+3	ESN	2	Europea (máx. en GBR)	0.0
+3	ESN	3	Asia oriental (máx. en CHS)	0.0
+3	FIN	1	Africana (máx. en ESN)	0.0
+3	FIN	2	Europea (máx. en GBR)	0.927
+3	FIN	3	Asia oriental (máx. en CHS)	0.073
+3	GBR	1	Africana (máx. en ESN)	0.0
+3	GBR	2	Europea (máx. en GBR)	0.998
+3	GBR	3	Asia oriental (máx. en CHS)	0.002
+3	GIH	1	Africana (máx. en ESN)	0.002
+3	GIH	2	Europea (máx. en GBR)	0.706
+3	GIH	3	Asia oriental (máx. en CHS)	0.292
+3	GWD	1	Africana (máx. en ESN)	0.984
+3	GWD	2	Europea (máx. en GBR)	0.014
+3	GWD	3	Asia oriental (máx. en CHS)	0.002
+3	IBS	1	Africana (máx. en ESN)	0.016
+3	IBS	2	Europea (máx. en GBR)	0.981
+3	IBS	3	Asia oriental (máx. en CHS)	0.003
+3	ITU	1	Africana (máx. en ESN)	0.005
+3	ITU	2	Europea (máx. en GBR)	0.657
+3	ITU	3	Asia oriental (máx. en CHS)	0.338
+3	JPT	1	Africana (máx. en ESN)	0.0
+3	JPT	2	Europea (máx. en GBR)	0.001
+3	JPT	3	Asia oriental (máx. en CHS)	0.999
+3	KHV	1	Africana (máx. en ESN)	0.0
+3	KHV	2	Europea (máx. en GBR)	0.014
+3	KHV	3	Asia oriental (máx. en CHS)	0.985
+3	LWK	1	Africana (máx. en ESN)	0.95
+3	LWK	2	Europea (máx. en GBR)	0.042
+3	LWK	3	Asia oriental (máx. en CHS)	0.008
+3	MSL	1	Africana (máx. en ESN)	0.999
+3	MSL	2	Europea (máx. en GBR)	0.001
+3	MSL	3	Asia oriental (máx. en CHS)	0.0
+3	MXL	1	Africana (máx. en ESN)	0.034
+3	MXL	2	Europea (máx. en GBR)	0.645
+3	MXL	3	Asia oriental (máx. en CHS)	0.321
+3	PEL	1	Africana (máx. en ESN)	0.024
+3	PEL	2	Europea (máx. en GBR)	0.467
+3	PEL	3	Asia oriental (máx. en CHS)	0.51
+3	PJL	1	Africana (máx. en ESN)	0.003
+3	PJL	2	Europea (máx. en GBR)	0.714
+3	PJL	3	Asia oriental (máx. en CHS)	0.283
+3	PUR	1	Africana (máx. en ESN)	0.139
+3	PUR	2	Europea (máx. en GBR)	0.764
+3	PUR	3	Asia oriental (máx. en CHS)	0.098
+3	STU	1	Africana (máx. en ESN)	0.007
+3	STU	2	Europea (máx. en GBR)	0.643
+3	STU	3	Asia oriental (máx. en CHS)	0.35
+3	TSI	1	Africana (máx. en ESN)	0.005
+3	TSI	2	Europea (máx. en GBR)	0.989
+3	TSI	3	Asia oriental (máx. en CHS)	0.006
+3	YRI	1	Africana (máx. en ESN)	0.999
+3	YRI	2	Europea (máx. en GBR)	0.0
+3	YRI	3	Asia oriental (máx. en CHS)	0.0
+4	ACB	1	Africana (máx. en ESN)	0.877
+4	ACB	2	Europea (máx. en GBR)	0.105
+4	ACB	3	Asia oriental (máx. en CHS)	0.005
+4	ACB	4	Asia del sur (máx. en ITU)	0.013
+4	ASW	1	Africana (máx. en ESN)	0.77
+4	ASW	2	Europea (máx. en GBR)	0.188
+4	ASW	3	Asia oriental (máx. en CHS)	0.033
+4	ASW	4	Asia del sur (máx. en ITU)	0.009
+4	BEB	1	Africana (máx. en ESN)	0.001
+4	BEB	2	Europea (máx. en GBR)	0.094
+4	BEB	3	Asia oriental (máx. en CHS)	0.128
+4	BEB	4	Asia del sur (máx. en ITU)	0.777
+4	CDX	1	Africana (máx. en ESN)	0.0
+4	CDX	2	Europea (máx. en GBR)	0.001
+4	CDX	3	Asia oriental (máx. en CHS)	0.988
+4	CDX	4	Asia del sur (máx. en ITU)	0.012
+4	CEU	1	Africana (máx. en ESN)	0.001
+4	CEU	2	Europea (máx. en GBR)	0.958
+4	CEU	3	Asia oriental (máx. en CHS)	0.003
+4	CEU	4	Asia del sur (máx. en ITU)	0.038
+4	CHB	1	Africana (máx. en ESN)	0.0
+4	CHB	2	Europea (máx. en GBR)	0.007
+4	CHB	3	Asia oriental (máx. en CHS)	0.987
+4	CHB	4	Asia del sur (máx. en ITU)	0.007
+4	CHS	1	Africana (máx. en ESN)	0.0
+4	CHS	2	Europea (máx. en GBR)	0.001
+4	CHS	3	Asia oriental (máx. en CHS)	0.997
+4	CHS	4	Asia del sur (máx. en ITU)	0.002
+4	CLM	1	Africana (máx. en ESN)	0.083
+4	CLM	2	Europea (máx. en GBR)	0.743
+4	CLM	3	Asia oriental (máx. en CHS)	0.161
+4	CLM	4	Asia del sur (máx. en ITU)	0.012
+4	ESN	1	Africana (máx. en ESN)	1.0
+4	ESN	2	Europea (máx. en GBR)	0.0
+4	ESN	3	Asia oriental (máx. en CHS)	0.0
+4	ESN	4	Asia del sur (máx. en ITU)	0.0
+4	FIN	1	Africana (máx. en ESN)	0.0
+4	FIN	2	Europea (máx. en GBR)	0.892
+4	FIN	3	Asia oriental (máx. en CHS)	0.073
+4	FIN	4	Asia del sur (máx. en ITU)	0.035
+4	GBR	1	Africana (máx. en ESN)	0.001
+4	GBR	2	Europea (máx. en GBR)	0.962
+4	GBR	3	Asia oriental (máx. en CHS)	0.001
+4	GBR	4	Asia del sur (máx. en ITU)	0.037
+4	GIH	1	Africana (máx. en ESN)	0.0
+4	GIH	2	Europea (máx. en GBR)	0.166
+4	GIH	3	Asia oriental (máx. en CHS)	0.01
+4	GIH	4	Asia del sur (máx. en ITU)	0.823
+4	GWD	1	Africana (máx. en ESN)	0.984
+4	GWD	2	Europea (máx. en GBR)	0.012
+4	GWD	3	Asia oriental (máx. en CHS)	0.001
+4	GWD	4	Asia del sur (máx. en ITU)	0.003
+4	IBS	1	Africana (máx. en ESN)	0.019
+4	IBS	2	Europea (máx. en GBR)	0.942
+4	IBS	3	Asia oriental (máx. en CHS)	0.002
+4	IBS	4	Asia del sur (máx. en ITU)	0.038
+4	ITU	1	Africana (máx. en ESN)	0.0
+4	ITU	2	Europea (máx. en GBR)	0.079
+4	ITU	3	Asia oriental (máx. en CHS)	0.021
+4	ITU	4	Asia del sur (máx. en ITU)	0.9
+4	JPT	1	Africana (máx. en ESN)	0.0
+4	JPT	2	Europea (máx. en GBR)	0.001
+4	JPT	3	Asia oriental (máx. en CHS)	0.994
+4	JPT	4	Asia del sur (máx. en ITU)	0.005
+4	KHV	1	Africana (máx. en ESN)	0.0
+4	KHV	2	Europea (máx. en GBR)	0.003
+4	KHV	3	Asia oriental (máx. en CHS)	0.967
+4	KHV	4	Asia del sur (máx. en ITU)	0.03
+4	LWK	1	Africana (máx. en ESN)	0.949
+4	LWK	2	Europea (máx. en GBR)	0.029
+4	LWK	3	Asia oriental (máx. en CHS)	0.004
+4	LWK	4	Asia del sur (máx. en ITU)	0.018
+4	MSL	1	Africana (máx. en ESN)	0.999
+4	MSL	2	Europea (máx. en GBR)	0.001
+4	MSL	3	Asia oriental (máx. en CHS)	0.0
+4	MSL	4	Asia del sur (máx. en ITU)	0.0
+4	MXL	1	Africana (máx. en ESN)	0.037
+4	MXL	2	Europea (máx. en GBR)	0.634
+4	MXL	3	Asia oriental (máx. en CHS)	0.324
+4	MXL	4	Asia del sur (máx. en ITU)	0.006
+4	PEL	1	Africana (máx. en ESN)	0.024
+4	PEL	2	Europea (máx. en GBR)	0.467
+4	PEL	3	Asia oriental (máx. en CHS)	0.508
+4	PEL	4	Asia del sur (máx. en ITU)	0.0
+4	PJL	1	Africana (máx. en ESN)	0.0
+4	PJL	2	Europea (máx. en GBR)	0.23
+4	PJL	3	Asia oriental (máx. en CHS)	0.028
+4	PJL	4	Asia del sur (máx. en ITU)	0.742
+4	PUR	1	Africana (máx. en ESN)	0.145
+4	PUR	2	Europea (máx. en GBR)	0.735
+4	PUR	3	Asia oriental (máx. en CHS)	0.098
+4	PUR	4	Asia del sur (máx. en ITU)	0.021
+4	STU	1	Africana (máx. en ESN)	0.001
+4	STU	2	Europea (máx. en GBR)	0.075
+4	STU	3	Asia oriental (máx. en CHS)	0.033
+4	STU	4	Asia del sur (máx. en ITU)	0.891
+4	TSI	1	Africana (máx. en ESN)	0.006
+4	TSI	2	Europea (máx. en GBR)	0.928
+4	TSI	3	Asia oriental (máx. en CHS)	0.002
+4	TSI	4	Asia del sur (máx. en ITU)	0.064
+4	YRI	1	Africana (máx. en ESN)	0.999
+4	YRI	2	Europea (máx. en GBR)	0.0
+4	YRI	3	Asia oriental (máx. en CHS)	0.0
+4	YRI	4	Asia del sur (máx. en ITU)	0.0
+5	ACB	1	Africana (máx. en ESN)	0.876
+5	ACB	2	Europea (máx. en GBR)	0.105
+5	ACB	3	Asia oriental (máx. en CHS)	0.004
+5	ACB	4	Asia del sur (máx. en ITU)	0.011
+5	ACB	5	Indígena americana (máx. en PEL)	0.004
+5	ASW	1	Africana (máx. en ESN)	0.77
+5	ASW	2	Europea (máx. en GBR)	0.173
+5	ASW	3	Asia oriental (máx. en CHS)	0.009
+5	ASW	4	Asia del sur (máx. en ITU)	0.008
+5	ASW	5	Indígena americana (máx. en PEL)	0.039
+5	BEB	1	Africana (máx. en ESN)	0.001
+5	BEB	2	Europea (máx. en GBR)	0.092
+5	BEB	3	Asia oriental (máx. en CHS)	0.123
+5	BEB	4	Asia del sur (máx. en ITU)	0.769
+5	BEB	5	Indígena americana (máx. en PEL)	0.016
+5	CDX	1	Africana (máx. en ESN)	0.0
+5	CDX	2	Europea (máx. en GBR)	0.001
+5	CDX	3	Asia oriental (máx. en CHS)	0.99
+5	CDX	4	Asia del sur (máx. en ITU)	0.008
+5	CDX	5	Indígena americana (máx. en PEL)	0.001
+5	CEU	1	Africana (máx. en ESN)	0.001
+5	CEU	2	Europea (máx. en GBR)	0.974
+5	CEU	3	Asia oriental (máx. en CHS)	0.003
+5	CEU	4	Asia del sur (máx. en ITU)	0.014
+5	CEU	5	Indígena americana (máx. en PEL)	0.008
+5	CHB	1	Africana (máx. en ESN)	0.0
+5	CHB	2	Europea (máx. en GBR)	0.006
+5	CHB	3	Asia oriental (máx. en CHS)	0.979
+5	CHB	4	Asia del sur (máx. en ITU)	0.004
+5	CHB	5	Indígena americana (máx. en PEL)	0.011
+5	CHS	1	Africana (máx. en ESN)	0.0
+5	CHS	2	Europea (máx. en GBR)	0.001
+5	CHS	3	Asia oriental (máx. en CHS)	0.994
+5	CHS	4	Asia del sur (máx. en ITU)	0.002
+5	CHS	5	Indígena americana (máx. en PEL)	0.004
+5	CLM	1	Africana (máx. en ESN)	0.084
+5	CLM	2	Europea (máx. en GBR)	0.645
+5	CLM	3	Asia oriental (máx. en CHS)	0.008
+5	CLM	4	Asia del sur (máx. en ITU)	0.017
+5	CLM	5	Indígena americana (máx. en PEL)	0.246
+5	ESN	1	Africana (máx. en ESN)	1.0
+5	ESN	2	Europea (máx. en GBR)	0.0
+5	ESN	3	Asia oriental (máx. en CHS)	0.0
+5	ESN	4	Asia del sur (máx. en ITU)	0.0
+5	ESN	5	Indígena americana (máx. en PEL)	0.0
+5	FIN	1	Africana (máx. en ESN)	0.0
+5	FIN	2	Europea (máx. en GBR)	0.895
+5	FIN	3	Asia oriental (máx. en CHS)	0.06
+5	FIN	4	Asia del sur (máx. en ITU)	0.015
+5	FIN	5	Indígena americana (máx. en PEL)	0.03
+5	GBR	1	Africana (máx. en ESN)	0.0
+5	GBR	2	Europea (máx. en GBR)	0.977
+5	GBR	3	Asia oriental (máx. en CHS)	0.001
+5	GBR	4	Asia del sur (máx. en ITU)	0.014
+5	GBR	5	Indígena americana (máx. en PEL)	0.007
+5	GIH	1	Africana (máx. en ESN)	0.0
+5	GIH	2	Europea (máx. en GBR)	0.165
+5	GIH	3	Asia oriental (máx. en CHS)	0.008
+5	GIH	4	Asia del sur (máx. en ITU)	0.816
+5	GIH	5	Indígena americana (máx. en PEL)	0.011
+5	GWD	1	Africana (máx. en ESN)	0.983
+5	GWD	2	Europea (máx. en GBR)	0.012
+5	GWD	3	Asia oriental (máx. en CHS)	0.001
+5	GWD	4	Asia del sur (máx. en ITU)	0.003
+5	GWD	5	Indígena americana (máx. en PEL)	0.001
+5	IBS	1	Africana (máx. en ESN)	0.018
+5	IBS	2	Europea (máx. en GBR)	0.961
+5	IBS	3	Asia oriental (máx. en CHS)	0.003
+5	IBS	4	Asia del sur (máx. en ITU)	0.015
+5	IBS	5	Indígena americana (máx. en PEL)	0.003
+5	ITU	1	Africana (máx. en ESN)	0.0
+5	ITU	2	Europea (máx. en GBR)	0.078
+5	ITU	3	Asia oriental (máx. en CHS)	0.02
+5	ITU	4	Asia del sur (máx. en ITU)	0.894
+5	ITU	5	Indígena americana (máx. en PEL)	0.008
+5	JPT	1	Africana (máx. en ESN)	0.0
+5	JPT	2	Europea (máx. en GBR)	0.0
+5	JPT	3	Asia oriental (máx. en CHS)	0.973
+5	JPT	4	Asia del sur (máx. en ITU)	0.003
+5	JPT	5	Indígena americana (máx. en PEL)	0.023
+5	KHV	1	Africana (máx. en ESN)	0.0
+5	KHV	2	Europea (máx. en GBR)	0.005
+5	KHV	3	Asia oriental (máx. en CHS)	0.97
+5	KHV	4	Asia del sur (máx. en ITU)	0.023
+5	KHV	5	Indígena americana (máx. en PEL)	0.002
+5	LWK	1	Africana (máx. en ESN)	0.949
+5	LWK	2	Europea (máx. en GBR)	0.03
+5	LWK	3	Asia oriental (máx. en CHS)	0.004
+5	LWK	4	Asia del sur (máx. en ITU)	0.015
+5	LWK	5	Indígena americana (máx. en PEL)	0.002
+5	MSL	1	Africana (máx. en ESN)	0.999
+5	MSL	2	Europea (máx. en GBR)	0.001
+5	MSL	3	Asia oriental (máx. en CHS)	0.0
+5	MSL	4	Asia del sur (máx. en ITU)	0.0
+5	MSL	5	Indígena americana (máx. en PEL)	0.0
+5	MXL	1	Africana (máx. en ESN)	0.039
+5	MXL	2	Europea (máx. en GBR)	0.449
+5	MXL	3	Asia oriental (máx. en CHS)	0.023
+5	MXL	4	Asia del sur (máx. en ITU)	0.018
+5	MXL	5	Indígena americana (máx. en PEL)	0.471
+5	PEL	1	Africana (máx. en ESN)	0.025
+5	PEL	2	Europea (máx. en GBR)	0.176
+5	PEL	3	Asia oriental (máx. en CHS)	0.014
+5	PEL	4	Asia del sur (máx. en ITU)	0.006
+5	PEL	5	Indígena americana (máx. en PEL)	0.779
+5	PJL	1	Africana (máx. en ESN)	0.0
+5	PJL	2	Europea (máx. en GBR)	0.228
+5	PJL	3	Asia oriental (máx. en CHS)	0.024
+5	PJL	4	Asia del sur (máx. en ITU)	0.732
+5	PJL	5	Indígena americana (máx. en PEL)	0.016
+5	PUR	1	Africana (máx. en ESN)	0.146
+5	PUR	2	Europea (máx. en GBR)	0.679
+5	PUR	3	Asia oriental (máx. en CHS)	0.008
+5	PUR	4	Asia del sur (máx. en ITU)	0.018
+5	PUR	5	Indígena americana (máx. en PEL)	0.149
+5	STU	1	Africana (máx. en ESN)	0.001
+5	STU	2	Europea (máx. en GBR)	0.074
+5	STU	3	Asia oriental (máx. en CHS)	0.031
+5	STU	4	Asia del sur (máx. en ITU)	0.884
+5	STU	5	Indígena americana (máx. en PEL)	0.01
+5	TSI	1	Africana (máx. en ESN)	0.006
+5	TSI	2	Europea (máx. en GBR)	0.953
+5	TSI	3	Asia oriental (máx. en CHS)	0.004
+5	TSI	4	Asia del sur (máx. en ITU)	0.035
+5	TSI	5	Indígena americana (máx. en PEL)	0.002
+5	YRI	1	Africana (máx. en ESN)	0.999
+5	YRI	2	Europea (máx. en GBR)	0.0
+5	YRI	3	Asia oriental (máx. en CHS)	0.0
+5	YRI	4	Asia del sur (máx. en ITU)	0.0
+5	YRI	5	Indígena americana (máx. en PEL)	0.0
+6	ACB	1	Africana (máx. en GWD)	0.437
+6	ACB	2	Europea (máx. en GBR)	0.104
+6	ACB	3	Asia oriental (máx. en CHS)	0.004
+6	ACB	4	Asia del sur (máx. en ITU)	0.011
+6	ACB	5	Indígena americana (máx. en PEL)	0.004
+6	ACB	6	Africana (máx. en LWK)	0.441
+6	ASW	1	Africana (máx. en GWD)	0.376
+6	ASW	2	Europea (máx. en GBR)	0.172
+6	ASW	3	Asia oriental (máx. en CHS)	0.009
+6	ASW	4	Asia del sur (máx. en ITU)	0.008
+6	ASW	5	Indígena americana (máx. en PEL)	0.039
+6	ASW	6	Africana (máx. en LWK)	0.395
+6	BEB	1	Africana (máx. en GWD)	0.0
+6	BEB	2	Europea (máx. en GBR)	0.092
+6	BEB	3	Asia oriental (máx. en CHS)	0.123
+6	BEB	4	Asia del sur (máx. en ITU)	0.769
+6	BEB	5	Indígena americana (máx. en PEL)	0.016
+6	BEB	6	Africana (máx. en LWK)	0.0
+6	CDX	1	Africana (máx. en GWD)	0.0
+6	CDX	2	Europea (máx. en GBR)	0.001
+6	CDX	3	Asia oriental (máx. en CHS)	0.99
+6	CDX	4	Asia del sur (máx. en ITU)	0.008
+6	CDX	5	Indígena americana (máx. en PEL)	0.001
+6	CDX	6	Africana (máx. en LWK)	0.0
+6	CEU	1	Africana (máx. en GWD)	0.0
+6	CEU	2	Europea (máx. en GBR)	0.974
+6	CEU	3	Asia oriental (máx. en CHS)	0.003
+6	CEU	4	Asia del sur (máx. en ITU)	0.014
+6	CEU	5	Indígena americana (máx. en PEL)	0.008
+6	CEU	6	Africana (máx. en LWK)	0.001
+6	CHB	1	Africana (máx. en GWD)	0.0
+6	CHB	2	Europea (máx. en GBR)	0.006
+6	CHB	3	Asia oriental (máx. en CHS)	0.979
+6	CHB	4	Asia del sur (máx. en ITU)	0.004
+6	CHB	5	Indígena americana (máx. en PEL)	0.011
+6	CHB	6	Africana (máx. en LWK)	0.0
+6	CHS	1	Africana (máx. en GWD)	0.0
+6	CHS	2	Europea (máx. en GBR)	0.001
+6	CHS	3	Asia oriental (máx. en CHS)	0.994
+6	CHS	4	Asia del sur (máx. en ITU)	0.002
+6	CHS	5	Indígena americana (máx. en PEL)	0.004
+6	CHS	6	Africana (máx. en LWK)	0.0
+6	CLM	1	Africana (máx. en GWD)	0.049
+6	CLM	2	Europea (máx. en GBR)	0.645
+6	CLM	3	Asia oriental (máx. en CHS)	0.008
+6	CLM	4	Asia del sur (máx. en ITU)	0.017
+6	CLM	5	Indígena americana (máx. en PEL)	0.246
+6	CLM	6	Africana (máx. en LWK)	0.036
+6	ESN	1	Africana (máx. en GWD)	0.405
+6	ESN	2	Europea (máx. en GBR)	0.0
+6	ESN	3	Asia oriental (máx. en CHS)	0.0
+6	ESN	4	Asia del sur (máx. en ITU)	0.0
+6	ESN	5	Indígena americana (máx. en PEL)	0.0
+6	ESN	6	Africana (máx. en LWK)	0.595
+6	FIN	1	Africana (máx. en GWD)	0.0
+6	FIN	2	Europea (máx. en GBR)	0.895
+6	FIN	3	Asia oriental (máx. en CHS)	0.06
+6	FIN	4	Asia del sur (máx. en ITU)	0.015
+6	FIN	5	Indígena americana (máx. en PEL)	0.03
+6	FIN	6	Africana (máx. en LWK)	0.0
+6	GBR	1	Africana (máx. en GWD)	0.0
+6	GBR	2	Europea (máx. en GBR)	0.977
+6	GBR	3	Asia oriental (máx. en CHS)	0.001
+6	GBR	4	Asia del sur (máx. en ITU)	0.014
+6	GBR	5	Indígena americana (máx. en PEL)	0.007
+6	GBR	6	Africana (máx. en LWK)	0.0
+6	GIH	1	Africana (máx. en GWD)	0.0
+6	GIH	2	Europea (máx. en GBR)	0.165
+6	GIH	3	Asia oriental (máx. en CHS)	0.008
+6	GIH	4	Asia del sur (máx. en ITU)	0.816
+6	GIH	5	Indígena americana (máx. en PEL)	0.011
+6	GIH	6	Africana (máx. en LWK)	0.0
+6	GWD	1	Africana (máx. en GWD)	0.916
+6	GWD	2	Europea (máx. en GBR)	0.011
+6	GWD	3	Asia oriental (máx. en CHS)	0.001
+6	GWD	4	Asia del sur (máx. en ITU)	0.002
+6	GWD	5	Indígena americana (máx. en PEL)	0.001
+6	GWD	6	Africana (máx. en LWK)	0.07
+6	IBS	1	Africana (máx. en GWD)	0.01
+6	IBS	2	Europea (máx. en GBR)	0.961
+6	IBS	3	Asia oriental (máx. en CHS)	0.003
+6	IBS	4	Asia del sur (máx. en ITU)	0.015
+6	IBS	5	Indígena americana (máx. en PEL)	0.003
+6	IBS	6	Africana (máx. en LWK)	0.009
+6	ITU	1	Africana (máx. en GWD)	0.0
+6	ITU	2	Europea (máx. en GBR)	0.078
+6	ITU	3	Asia oriental (máx. en CHS)	0.02
+6	ITU	4	Asia del sur (máx. en ITU)	0.894
+6	ITU	5	Indígena americana (máx. en PEL)	0.008
+6	ITU	6	Africana (máx. en LWK)	0.0
+6	JPT	1	Africana (máx. en GWD)	0.0
+6	JPT	2	Europea (máx. en GBR)	0.0
+6	JPT	3	Asia oriental (máx. en CHS)	0.973
+6	JPT	4	Asia del sur (máx. en ITU)	0.003
+6	JPT	5	Indígena americana (máx. en PEL)	0.023
+6	JPT	6	Africana (máx. en LWK)	0.0
+6	KHV	1	Africana (máx. en GWD)	0.0
+6	KHV	2	Europea (máx. en GBR)	0.005
+6	KHV	3	Asia oriental (máx. en CHS)	0.97
+6	KHV	4	Asia del sur (máx. en ITU)	0.023
+6	KHV	5	Indígena americana (máx. en PEL)	0.002
+6	KHV	6	Africana (máx. en LWK)	0.0
+6	LWK	1	Africana (máx. en GWD)	0.099
+6	LWK	2	Europea (máx. en GBR)	0.028
+6	LWK	3	Asia oriental (máx. en CHS)	0.003
+6	LWK	4	Asia del sur (máx. en ITU)	0.013
+6	LWK	5	Indígena americana (máx. en PEL)	0.001
+6	LWK	6	Africana (máx. en LWK)	0.855
+6	MSL	1	Africana (máx. en GWD)	0.76
+6	MSL	2	Europea (máx. en GBR)	0.0
+6	MSL	3	Asia oriental (máx. en CHS)	0.0
+6	MSL	4	Asia del sur (máx. en ITU)	0.0
+6	MSL	5	Indígena americana (máx. en PEL)	0.0
+6	MSL	6	Africana (máx. en LWK)	0.239
+6	MXL	1	Africana (máx. en GWD)	0.023
+6	MXL	2	Europea (máx. en GBR)	0.449
+6	MXL	3	Asia oriental (máx. en CHS)	0.023
+6	MXL	4	Asia del sur (máx. en ITU)	0.018
+6	MXL	5	Indígena americana (máx. en PEL)	0.471
+6	MXL	6	Africana (máx. en LWK)	0.016
+6	PEL	1	Africana (máx. en GWD)	0.014
+6	PEL	2	Europea (máx. en GBR)	0.175
+6	PEL	3	Asia oriental (máx. en CHS)	0.014
+6	PEL	4	Asia del sur (máx. en ITU)	0.006
+6	PEL	5	Indígena americana (máx. en PEL)	0.779
+6	PEL	6	Africana (máx. en LWK)	0.012
+6	PJL	1	Africana (máx. en GWD)	0.0
+6	PJL	2	Europea (máx. en GBR)	0.228
+6	PJL	3	Asia oriental (máx. en CHS)	0.024
+6	PJL	4	Asia del sur (máx. en ITU)	0.732
+6	PJL	5	Indígena americana (máx. en PEL)	0.016
+6	PJL	6	Africana (máx. en LWK)	0.0
+6	PUR	1	Africana (máx. en GWD)	0.083
+6	PUR	2	Europea (máx. en GBR)	0.679
+6	PUR	3	Asia oriental (máx. en CHS)	0.008
+6	PUR	4	Asia del sur (máx. en ITU)	0.018
+6	PUR	5	Indígena americana (máx. en PEL)	0.149
+6	PUR	6	Africana (máx. en LWK)	0.064
+6	STU	1	Africana (máx. en GWD)	0.0
+6	STU	2	Europea (máx. en GBR)	0.074
+6	STU	3	Asia oriental (máx. en CHS)	0.031
+6	STU	4	Asia del sur (máx. en ITU)	0.884
+6	STU	5	Indígena americana (máx. en PEL)	0.01
+6	STU	6	Africana (máx. en LWK)	0.0
+6	TSI	1	Africana (máx. en GWD)	0.002
+6	TSI	2	Europea (máx. en GBR)	0.953
+6	TSI	3	Asia oriental (máx. en CHS)	0.004
+6	TSI	4	Asia del sur (máx. en ITU)	0.035
+6	TSI	5	Indígena americana (máx. en PEL)	0.002
+6	TSI	6	Africana (máx. en LWK)	0.005
+6	YRI	1	Africana (máx. en GWD)	0.451
+6	YRI	2	Europea (máx. en GBR)	0.0
+6	YRI	3	Asia oriental (máx. en CHS)	0.0
+6	YRI	4	Asia del sur (máx. en ITU)	0.0
+6	YRI	5	Indígena americana (máx. en PEL)	0.0
+6	YRI	6	Africana (máx. en LWK)	0.548
+7	ACB	1	Africana (máx. en GWD)	0.435
+7	ACB	2	Europea (máx. en TSI)	0.059
+7	ACB	3	Asia oriental (máx. en CHS)	0.003
+7	ACB	4	Asia del sur (máx. en ITU)	0.009
+7	ACB	5	Indígena americana (máx. en PEL)	0.004
+7	ACB	6	Africana (máx. en LWK)	0.442
+7	ACB	7	Europea (máx. en FIN)	0.047
+7	ASW	1	Africana (máx. en GWD)	0.375
+7	ASW	2	Europea (máx. en TSI)	0.103
+7	ASW	3	Asia oriental (máx. en CHS)	0.008
+7	ASW	4	Asia del sur (máx. en ITU)	0.007
+7	ASW	5	Indígena americana (máx. en PEL)	0.038
+7	ASW	6	Africana (máx. en LWK)	0.396
+7	ASW	7	Europea (máx. en FIN)	0.072
+7	BEB	1	Africana (máx. en GWD)	0.0
+7	BEB	2	Europea (máx. en TSI)	0.046
+7	BEB	3	Asia oriental (máx. en CHS)	0.122
+7	BEB	4	Asia del sur (máx. en ITU)	0.749
+7	BEB	5	Indígena americana (máx. en PEL)	0.015
+7	BEB	6	Africana (máx. en LWK)	0.0
+7	BEB	7	Europea (máx. en FIN)	0.068
+7	CDX	1	Africana (máx. en GWD)	0.0
+7	CDX	2	Europea (máx. en TSI)	0.001
+7	CDX	3	Asia oriental (máx. en CHS)	0.99
+7	CDX	4	Asia del sur (máx. en ITU)	0.008
+7	CDX	5	Indígena americana (máx. en PEL)	0.001
+7	CDX	6	Africana (máx. en LWK)	0.0
+7	CDX	7	Europea (máx. en FIN)	0.0
+7	CEU	1	Africana (máx. en GWD)	0.0
+7	CEU	2	Europea (máx. en TSI)	0.553
+7	CEU	3	Asia oriental (máx. en CHS)	0.001
+7	CEU	4	Asia del sur (máx. en ITU)	0.01
+7	CEU	5	Indígena americana (máx. en PEL)	0.004
+7	CEU	6	Africana (máx. en LWK)	0.0
+7	CEU	7	Europea (máx. en FIN)	0.432
+7	CHB	1	Africana (máx. en GWD)	0.0
+7	CHB	2	Europea (máx. en TSI)	0.003
+7	CHB	3	Asia oriental (máx. en CHS)	0.978
+7	CHB	4	Asia del sur (máx. en ITU)	0.003
+7	CHB	5	Indígena americana (máx. en PEL)	0.011
+7	CHB	6	Africana (máx. en LWK)	0.0
+7	CHB	7	Europea (máx. en FIN)	0.005
+7	CHS	1	Africana (máx. en GWD)	0.0
+7	CHS	2	Europea (máx. en TSI)	0.001
+7	CHS	3	Asia oriental (máx. en CHS)	0.994
+7	CHS	4	Asia del sur (máx. en ITU)	0.001
+7	CHS	5	Indígena americana (máx. en PEL)	0.004
+7	CHS	6	Africana (máx. en LWK)	0.0
+7	CHS	7	Europea (máx. en FIN)	0.001
+7	CLM	1	Africana (máx. en GWD)	0.047
+7	CLM	2	Europea (máx. en TSI)	0.542
+7	CLM	3	Asia oriental (máx. en CHS)	0.009
+7	CLM	4	Asia del sur (máx. en ITU)	0.016
+7	CLM	5	Indígena americana (máx. en PEL)	0.25
+7	CLM	6	Africana (máx. en LWK)	0.034
+7	CLM	7	Europea (máx. en FIN)	0.102
+7	ESN	1	Africana (máx. en GWD)	0.402
+7	ESN	2	Europea (máx. en TSI)	0.0
+7	ESN	3	Asia oriental (máx. en CHS)	0.0
+7	ESN	4	Asia del sur (máx. en ITU)	0.0
+7	ESN	5	Indígena americana (máx. en PEL)	0.0
+7	ESN	6	Africana (máx. en LWK)	0.597
+7	ESN	7	Europea (máx. en FIN)	0.0
+7	FIN	1	Africana (máx. en GWD)	0.0
+7	FIN	2	Europea (máx. en TSI)	0.105
+7	FIN	3	Asia oriental (máx. en CHS)	0.032
+7	FIN	4	Asia del sur (máx. en ITU)	0.009
+7	FIN	5	Indígena americana (máx. en PEL)	0.012
+7	FIN	6	Africana (máx. en LWK)	0.0
+7	FIN	7	Europea (máx. en FIN)	0.842
+7	GBR	1	Africana (máx. en GWD)	0.0
+7	GBR	2	Europea (máx. en TSI)	0.556
+7	GBR	3	Asia oriental (máx. en CHS)	0.0
+7	GBR	4	Asia del sur (máx. en ITU)	0.008
+7	GBR	5	Indígena americana (máx. en PEL)	0.003
+7	GBR	6	Africana (máx. en LWK)	0.0
+7	GBR	7	Europea (máx. en FIN)	0.432
+7	GIH	1	Africana (máx. en GWD)	0.0
+7	GIH	2	Europea (máx. en TSI)	0.092
+7	GIH	3	Asia oriental (máx. en CHS)	0.008
+7	GIH	4	Asia del sur (máx. en ITU)	0.795
+7	GIH	5	Indígena americana (máx. en PEL)	0.01
+7	GIH	6	Africana (máx. en LWK)	0.0
+7	GIH	7	Europea (máx. en FIN)	0.096
+7	GWD	1	Africana (máx. en GWD)	0.915
+7	GWD	2	Europea (máx. en TSI)	0.011
+7	GWD	3	Asia oriental (máx. en CHS)	0.001
+7	GWD	4	Asia del sur (máx. en ITU)	0.002
+7	GWD	5	Indígena americana (máx. en PEL)	0.0
+7	GWD	6	Africana (máx. en LWK)	0.07
+7	GWD	7	Europea (máx. en FIN)	0.001
+7	IBS	1	Africana (máx. en GWD)	0.008
+7	IBS	2	Europea (máx. en TSI)	0.773
+7	IBS	3	Asia oriental (máx. en CHS)	0.003
+7	IBS	4	Asia del sur (máx. en ITU)	0.014
+7	IBS	5	Indígena americana (máx. en PEL)	0.003
+7	IBS	6	Africana (máx. en LWK)	0.007
+7	IBS	7	Europea (máx. en FIN)	0.19
+7	ITU	1	Africana (máx. en GWD)	0.0
+7	ITU	2	Europea (máx. en TSI)	0.054
+7	ITU	3	Asia oriental (máx. en CHS)	0.02
+7	ITU	4	Asia del sur (máx. en ITU)	0.873
+7	ITU	5	Indígena americana (máx. en PEL)	0.007
+7	ITU	6	Africana (máx. en LWK)	0.0
+7	ITU	7	Europea (máx. en FIN)	0.045
+7	JPT	1	Africana (máx. en GWD)	0.0
+7	JPT	2	Europea (máx. en TSI)	0.0
+7	JPT	3	Asia oriental (máx. en CHS)	0.973
+7	JPT	4	Asia del sur (máx. en ITU)	0.004
+7	JPT	5	Indígena americana (máx. en PEL)	0.023
+7	JPT	6	Africana (máx. en LWK)	0.0
+7	JPT	7	Europea (máx. en FIN)	0.0
+7	KHV	1	Africana (máx. en GWD)	0.0
+7	KHV	2	Europea (máx. en TSI)	0.004
+7	KHV	3	Asia oriental (máx. en CHS)	0.969
+7	KHV	4	Asia del sur (máx. en ITU)	0.023
+7	KHV	5	Indígena americana (máx. en PEL)	0.002
+7	KHV	6	Africana (máx. en LWK)	0.0
+7	KHV	7	Europea (máx. en FIN)	0.002
+7	LWK	1	Africana (máx. en GWD)	0.097
+7	LWK	2	Europea (máx. en TSI)	0.028
+7	LWK	3	Asia oriental (máx. en CHS)	0.003
+7	LWK	4	Asia del sur (máx. en ITU)	0.011
+7	LWK	5	Indígena americana (máx. en PEL)	0.001
+7	LWK	6	Africana (máx. en LWK)	0.856
+7	LWK	7	Europea (máx. en FIN)	0.003
+7	MSL	1	Africana (máx. en GWD)	0.759
+7	MSL	2	Europea (máx. en TSI)	0.001
+7	MSL	3	Asia oriental (máx. en CHS)	0.0
+7	MSL	4	Asia del sur (máx. en ITU)	0.0
+7	MSL	5	Indígena americana (máx. en PEL)	0.0
+7	MSL	6	Africana (máx. en LWK)	0.24
+7	MSL	7	Europea (máx. en FIN)	0.0
+7	MXL	1	Africana (máx. en GWD)	0.022
+7	MXL	2	Europea (máx. en TSI)	0.362
+7	MXL	3	Asia oriental (máx. en CHS)	0.023
+7	MXL	4	Asia del sur (máx. en ITU)	0.017
+7	MXL	5	Indígena americana (máx. en PEL)	0.473
+7	MXL	6	Africana (máx. en LWK)	0.015
+7	MXL	7	Europea (máx. en FIN)	0.087
+7	PEL	1	Africana (máx. en GWD)	0.013
+7	PEL	2	Europea (máx. en TSI)	0.148
+7	PEL	3	Asia oriental (máx. en CHS)	0.014
+7	PEL	4	Asia del sur (máx. en ITU)	0.006
+7	PEL	5	Indígena americana (máx. en PEL)	0.779
+7	PEL	6	Africana (máx. en LWK)	0.012
+7	PEL	7	Europea (máx. en FIN)	0.028
+7	PJL	1	Africana (máx. en GWD)	0.0
+7	PJL	2	Europea (máx. en TSI)	0.136
+7	PJL	3	Asia oriental (máx. en CHS)	0.023
+7	PJL	4	Asia del sur (máx. en ITU)	0.712
+7	PJL	5	Indígena americana (máx. en PEL)	0.015
+7	PJL	6	Africana (máx. en LWK)	0.0
+7	PJL	7	Europea (máx. en FIN)	0.114
+7	PUR	1	Africana (máx. en GWD)	0.08
+7	PUR	2	Europea (máx. en TSI)	0.59
+7	PUR	3	Asia oriental (máx. en CHS)	0.009
+7	PUR	4	Asia del sur (máx. en ITU)	0.018
+7	PUR	5	Indígena americana (máx. en PEL)	0.154
+7	PUR	6	Africana (máx. en LWK)	0.061
+7	PUR	7	Europea (máx. en FIN)	0.087
+7	STU	1	Africana (máx. en GWD)	0.0
+7	STU	2	Europea (máx. en TSI)	0.052
+7	STU	3	Asia oriental (máx. en CHS)	0.031
+7	STU	4	Asia del sur (máx. en ITU)	0.862
+7	STU	5	Indígena americana (máx. en PEL)	0.01
+7	STU	6	Africana (máx. en LWK)	0.0
+7	STU	7	Europea (máx. en FIN)	0.044
+7	TSI	1	Africana (máx. en GWD)	0.001
+7	TSI	2	Europea (máx. en TSI)	0.824
+7	TSI	3	Asia oriental (máx. en CHS)	0.006
+7	TSI	4	Asia del sur (máx. en ITU)	0.035
+7	TSI	5	Indígena americana (máx. en PEL)	0.003
+7	TSI	6	Africana (máx. en LWK)	0.003
+7	TSI	7	Europea (máx. en FIN)	0.128
+7	YRI	1	Africana (máx. en GWD)	0.449
+7	YRI	2	Europea (máx. en TSI)	0.0
+7	YRI	3	Asia oriental (máx. en CHS)	0.0
+7	YRI	4	Asia del sur (máx. en ITU)	0.0
+7	YRI	5	Indígena americana (máx. en PEL)	0.0
+7	YRI	6	Africana (máx. en LWK)	0.55
+7	YRI	7	Europea (máx. en FIN)	0.0

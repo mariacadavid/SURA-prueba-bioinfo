@@ -1,0 +1,2505 @@
+IID	diplotipo	fenotipo_PharmCAT	AS_reconstruido	poblacion	superpoblacion	grupo	fenotipo_rescatado
+HG01593	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG04093	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00290	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3) + c.1627A>G (*5)]	Indeterminate	1.5	FIN	EUR	EUR	Intermedio
+HG02155	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18908	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA21110	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA21127	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02600	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	PJL	SAS	SAS	Intermedio
+HG03103	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19391	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01198	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00384	c.496A>G/[c.496A>G + c.1896T>C]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03742	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA11829	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01809	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03775	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02076	Reference/[c.496A>G + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG03986	c.85T>C (*9A)/c.2279C>T	Intermediate Metabolizer	1.5	STU	SAS	SAS	Intermedio
+HG00590	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02655	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03449	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	MSL	AFR	AFR	Intermedio
+HG02137	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20882	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG03634	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01948	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02891	[c.1896T>C + c.2194G>A (*6)]/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5)]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG03603	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA20359	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G + c.2194G>A (*6)]	Indeterminate	1.5	ASW	AFR	AFR	Intermedio
+HG03720	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG02023	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20518	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA12003	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20765	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA12761	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20752	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA12249	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02014	Reference/c.496A>G	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03717	Reference/c.1129-5923C>G, c.1236G>A (HapB3)	Intermediate Metabolizer	1.5	ITU	SAS	SAS	Intermedio
+HG02789	c.2194G>A (*6)/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03595	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19146	c.85T>C (*9A)/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00631	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18645	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01894	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19171	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00319	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01105	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01378	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA18881	[c.85T>C (*9A) + c.557A>G]/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+NA21099	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG04039	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02382	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03838	Reference/c.1896T>C	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01773	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18995	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19707	c.1371C>T/c.1601G>A (*4)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA19065	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01980	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG00653	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18627	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02089	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03295	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00131	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01632	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00419	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01605	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00106	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19113	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01167	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA20585	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA18610	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19752	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA20828	Reference/c.496A>G	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00258	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19030	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	1.5	LWK	AFR	AFR	Intermedio
+HG01073	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19007	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG04211	c.2194G>A (*6)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	ITU	SAS	SAS	Intermedio
+NA18579	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG03514	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02220	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG01815	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03241	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18923	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01936	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG02461	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+NA19786	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03437	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02334	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03069	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02275	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01840	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19834	Reference/[c.85T>C (*9A) + c.496A>G + c.2846A>T]	Indeterminate	1.5	ASW	AFR	AFR	Intermedio
+HG02008	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA20533	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20504	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01684	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00187	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG03300	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19920	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01954	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA18941	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA12341	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02356	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA18976	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01790	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02649	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG03455	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA19917	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA12414	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19086	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19204	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03824	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18507	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18989	[c.1627A>G (*5) + c.1896T>C]/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG01512	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20861	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19079	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20856	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG04025	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01525	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00739	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02681	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+NA18530	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA07347	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG01247	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG01119	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19472	c.85T>C (*9A)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG04106	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA20299	c.85T>C (*9A)/[c.496A>G + c.1218G>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG00178	Reference/c.1896T>C	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19310	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA20786	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA19327	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01353	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03096	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03589	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03907	Reference/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+NA19445	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01431	Reference/c.1896T>C	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG04131	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00332	Reference/c.1679T>G (*13)	Intermediate Metabolizer	1.0	FIN	EUR	EUR	Intermedio
+NA20803	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00273	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG04070	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA12489	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03846	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA18565	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19779	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03871	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+NA18552	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02810	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG04047	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA12830	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02181	Reference/c.2336C>A	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01058	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00244	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19372	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01619	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01464	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG04164	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00367	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19138	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00350	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02095	Reference/[c.85T>C (*9A) + c.2915A>G]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03796	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG04153	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03965	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19436	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03787	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00341	Reference/c.496A>G	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19129	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03298	c.1627A>G (*5)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02084	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03974	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01608	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03943	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00376	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20588	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20906	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA19401	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02922	c.85T>C (*9A)/c.3067C>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00537	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA18543	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02190	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00255	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG01049	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03693	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04056	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01556	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02836	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG04061	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20812	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	TSI	EUR	EUR	Intermedio
+HG00262	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03857	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00500	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18574	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03598	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03916	Reference/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02784	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	PJL	SAS	SAS	Intermedio
+HG01342	c.1896T>C/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00323	c.85T>C (*9A)/c.1601G>A (*4)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA18648	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19454	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02977	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA19463	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01108	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01375	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20797	c.1627A>G (*5)/c.2846A>T	Intermediate Metabolizer	1.5	TSI	EUR	EUR	Intermedio
+HG00476	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA21094	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00728	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA12843	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20847	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00237	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03193	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19222	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+HG01256	Reference/c.2846A>T	Intermediate Metabolizer	1.5	CLM	AMR	CLM	Intermedio
+HG02690	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03802	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18516	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18998	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20870	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19068	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG04003	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02854	c.496A>G/c.1371C>T	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01503	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA12874	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01781	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18967	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG02658	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02425	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01945	c.1627A>G (*5)/[c.451A>G + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG03311	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA18950	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03473	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A + c.1896T>C]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG01866	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20515	[c.85T>C (*9A) + c.775A>G]/[c.1627A>G (*5) + c.2846A>T]	Indeterminate	1.5	TSI	EUR	EUR	Intermedio
+HG02253	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	PEL	AMR	PEL	Intermedio
+NA20768	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA12273	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01695	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA18873	Reference/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5)]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+HG03567	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03078	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02019	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20522	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG01851	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA11930	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03139	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02325	Reference/c.1218G>A	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02312	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01927	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02470	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02231	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01804	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03778	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+NA20540	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03267	c.1627A>G (*5)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG04200	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19774	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG01700	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02493	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG01055	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00117	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA06986	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00675	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01176	Reference/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19102	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA18636	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01623	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19657	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03968	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00120	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19209	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+HG03829	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+NA19716	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA18984	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01762	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01991	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19074	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19043	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00734	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA18740	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01528	c.1601G>A (*4)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG03490	Reference/c.496A>G	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00308	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19160	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01885	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01676	Reference/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA21088	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+NA20294	Reference/c.496A>G	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01369	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00142	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02798	Reference/[c.85T>C (*9A) + c.1615G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG00620	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19448	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA11892	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02278	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03064	Reference/c.3067C>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18858	c.1218G>A/c.2195T>G	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03706	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02032	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20509	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03731	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20774	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01396	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02111	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA20348	Reference/c.3067C>A	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG00581	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG03458	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03625	Reference/[c.85T>C (*9A) + c.1896T>C + c.2846A>T]	Indeterminate	1.5	PJL	SAS	SAS	Intermedio
+HG02439	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02067	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03006	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19380	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00879	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03753	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02050	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03112	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02611	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG00281	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02144	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA18597	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA21101	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02339	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA20527	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03237	c.496A>G/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+NA20510	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA11843	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01863	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA18876	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02256	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02108	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03476	Reference/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA20351	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG02375	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03169	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00598	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01784	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA18962	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01977	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA12400	c.85T>C (*9A)/c.2846A>T	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+HG02420	Reference/[c.85T>C (*9A) + c.1218G>A + c.1896T>C]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA19092	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02561	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03028	Reference/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19399	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01801	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00693	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02049	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01190	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02317	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03376	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01915	c.1627A>G (*5)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02442	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19792	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA21118	c.2194G>A (*6)/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00267	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA12813	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG04219	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18571	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA18546	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03696	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02804	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG00250	c.1129-5923C>G, c.1236G>A (HapB3)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+NA19038	c.496A>G/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01312	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19679	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA19404	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA18618	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00373	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	FIN	EUR	EUR	Intermedio
+NA20903	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00344	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02081	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01447	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03782	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG03971	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00139	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+NA19351	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01325	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19210	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03830	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG04006	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02851	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG01988	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01506	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20875	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00232	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01531	Reference/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03196	c.85T>C (*9A)/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5)]	Indeterminate	1.5	ESN	AFR	AFR	Intermedio
+HG01253	c.1896T>C/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00311	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA19466	c.85T>C (*9A)/c.3067C>A	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01412	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00473	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA21091	Reference/c.1896T>C	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA20792	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03082	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03913	Reference/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19451	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00326	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00584	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01798	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA20896	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG02885	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03175	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA18949	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02676	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA20771	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01393	[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	1.5	PUR	AMR	PUR	Intermedio
+NA12775	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03061	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03703	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01848	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03642	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00284	Reference/c.496A>G	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01098	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02141	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03120	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA18592	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA20318	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA21104	Reference/c.496A>G	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02623	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21133	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02614	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03886	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03117	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA12156	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02737	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA18486	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA12717	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19385	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03756	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02700	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA18633	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02582	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19130	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00358	c.496A>G/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00125	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19652	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG01626	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00112	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19107	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01173	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19746	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA19024	Reference/c.496A>G	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02496	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01578	Reference/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19982	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01067	Reference/c.496A>G	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01705	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19771	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG00458	c.1896T>C/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG02282	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19152	Reference/c.1218G>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00625	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01880	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01111	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19318	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01673	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20291	Reference/Reference	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA18745	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG00731	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG02396	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18538	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA18981	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01767	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19713	Reference/Reference	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA20869	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01269	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG01776	Reference/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18990	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00717	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01985	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA20878	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA19060	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19057	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA11992	c.2194G>A (*6)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	CEU	EUR	EUR	Intermedio
+HG03484	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA19735	Reference/c.1896T>C	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA07000	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19309	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00449	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18640	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00634	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG01137	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19143	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA07037	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19002	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG04214	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19248	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03868	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00742	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA12829	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19035	Reference/c.1218G>A	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00103	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01600	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA18615	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01162	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19116	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5)]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+HG00349	Reference/[c.1627A>G (*5) + c.1905+1G>A (*2A)]	Indeterminate	1.0	FIN	EUR	EUR	Intermedio
+NA19121	[c.1218G>A + c.1615G>A]/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA18622	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00656	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02073	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03770	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03012	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02239	Reference/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03025	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19394	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG04182	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG03258	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG00381	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	FIN	EUR	EUR	Intermedio
+NA21122	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03419	c.1218G>A/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03897	c.496A>G/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG01089	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02150	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01596	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG01918	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG04096	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03653	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA21115	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA20757	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG01859	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02026	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+NA12006	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03558	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20760	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG02105	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02667	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01789	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG00595	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03631	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA20887	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03902	Reference/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02790	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	PJL	SAS	SAS	Intermedio
+HG01356	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00337	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG00628	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19440	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG04134	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01403	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19315	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA20783	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG04020	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18748	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+NA20853	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19236	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01242	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02684	c.1905+1G>A (*2A)/c.1905+1G>A (*2A)	Poor Metabolizer	0.0	PJL	SAS	SAS	Pobre
+NA19729	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA18535	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03821	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18502	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA19201	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01275	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA20864	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG04017	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02840	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01456	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03793	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG04156	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01149	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00355	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02090	c.1627A>G (*5)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG01334	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00128	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00437	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03960	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG01303	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19377	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00362	Reference/c.496A>G	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01461	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA18609	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG04161	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03874	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18557	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02184	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG03687	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04042	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG04075	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA20806	Reference/c.1896T>C	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00276	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01708	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18560	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01095	c.2194G>A (*6)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	PUR	AMR	PUR	Intermedio
+NA19783	c.1627A>G (*5)/c.2161G>A	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA21109	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	GIH	SAS	SAS	Intermedio
+HG03432	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG03367	Reference/[c.1371C>T + c.3067C>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG01933	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02464	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+NA10851	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG03039	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG02058	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA11830	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01810	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02570	Reference/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03511	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA18973	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG01795	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00589	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG00096	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02353	Reference/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19083	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01951	c.85T>C (*9A)/c.451A>G	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02888	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG02406	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02364	c.1627A>G (*5)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA18944	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20340	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01872	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19197	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00182	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	FIN	EUR	EUR	Intermedio
+NA12778	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18867	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20536	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG02512	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01845	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01817	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03521	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG03009	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02215	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03998	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02577	[c.85T>C (*9A) + c.557A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	1.5	ACB	AFR	AFR	Intermedio
+NA18916	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02629	Reference/[c.85T>C (*9A) + c.496A>G + c.1181G>T]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01092	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02301	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00185	Reference/[c.1627A>G (*5) + c.1905+1G>A (*2A)]	Indeterminate	1.0	FIN	EUR	EUR	Intermedio
+HG01686	c.1601G>A (*4)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG02522	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20506	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA19190	Reference/[c.85T>C (*9A) + c.2978T>G]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA20531	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	TSI	EUR	EUR	Intermedio
+HG03709	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG01842	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02768	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+NA12748	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02277	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19084	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20412	c.85T>C (*9A)/c.3067C>A	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01961	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA18974	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03457	c.85T>C (*9A)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA18943	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03460	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA19922	Reference/Reference	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01956	Reference/c.1218G>A	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02401	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18532	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02870	c.1371C>T/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01527	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20854	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA20863	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01510	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	IBS	EUR	EUR	Intermedio
+HG03826	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18505	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA19719	c.1627A>G (*5)/c.2846A>T	Intermediate Metabolizer	1.5	MXL	AMR	MXL	Intermedio
+HG01272	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19206	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00330	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG00452	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03905	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG01351	c.85T>C (*9A)/[c.1601G>A (*4) + c.2194G>A (*6)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19312	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01366	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG01679	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA21087	Reference/c.1896T>C	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02953	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00246	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03680	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00759	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG04238	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03873	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18550	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00524	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03844	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA18567	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00513	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01572	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA20801	c.85T>C (*9A)/c.775A>G	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA19019	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00271	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19347	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA19658	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG03967	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18639	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02588	c.1218G>A/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG00365	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00407	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA06989	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG03950	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00118	[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]/[c.496A>G + c.2846A>T]	Indeterminate	1.0	GBR	EUR	EUR	Intermedio
+HG03663	Reference/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG03890	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA20339	c.85T>C (*9A)/c.1615G>A	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA21125	c.2194G>A (*6)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG02635	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21112	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	GIH	SAS	SAS	Intermedio
+HG03136	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02716	Reference/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03015	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03268	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG03777	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03740	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04185	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01485	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00699	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03022	Reference/c.1896T>C	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19393	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02721	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02660	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03163	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02102	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA20126	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA19909	Reference/[c.85T>C (*9A) + c.1218G>A + c.3067C>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG03636	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19098	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02348	Reference/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00592	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18968	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02657	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02016	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03077	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG02774	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA20278	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA12763	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA20767	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03040	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03722	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG01869	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG00479	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA20287	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA12283	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20798	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01107	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01896	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG04118	c.2194G>A (*6)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	ITU	SAS	SAS	Intermedio
+NA18647	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA11881	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19144	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01130	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00151	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03088	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG03919	Reference/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01982	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19067	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01771	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18519	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18997	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG01746	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19732	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02380	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG01259	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00238	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA11995	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18612	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00379	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20587	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01607	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01630	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00133	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03297	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG00651	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19439	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA18625	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02594	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03788	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03858	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19005	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02839	c.85T>C (*9A)/c.3067C>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG04059	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01046	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA19750	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA19023	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG02491	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG04235	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19741	c.1627A>G (*5)/[c.85T>C (*9A) + c.868A>G + c.1218G>A]	Indeterminate	1.5	MXL	AMR	MXL	Intermedio
+HG04202	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG03849	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19776	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG01702	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01060	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00122	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19655	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA18634	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19428	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00640	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG02585	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+NA19137	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01174	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00368	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA18603	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+NA06984	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00115	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02391	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01248	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19723	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG01757	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00736	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA20859	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19041	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA19076	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00701	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18508	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18986	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01121	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00622	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03908	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG00140	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19328	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03099	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02285	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00177	c.496A>G/c.2194G>A (*6)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20296	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG00188	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG03733	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01878	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03066	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA19089	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20891	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA18979	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00583	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02646	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01280	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG03172	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02882	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02113	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02052	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG04194	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01494	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03995	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03279	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA12045	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03127	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA18595	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19789	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02624	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21103	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03645	c.1896T>C/c.2279C>T	Intermediate Metabolizer	1.5	STU	SAS	SAS	Intermedio
+HG04080	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG02146	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01939	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03672	c.2194G>A (*6)/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA11919	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02613	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19403	Reference/c.1371C>T	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG04177	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01168	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA20904	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00109	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03941	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00421	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19649	c.1627A>G (*5)/[c.1129-5923C>G, c.1236G>A (HapB3) + c.1601G>A (*4)]	Indeterminate	1.5	MXL	AMR	MXL	Intermedio
+HG03976	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG00343	c.85T>C (*9A)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02086	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA18628	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01440	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19434	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG04140	Reference/c.496A>G	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03785	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20810	Reference/c.496A>G	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00260	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG04063	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA12814	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG04054	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03691	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+NA20827	Reference/[c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG00257	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG04229	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03862	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18541	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01668	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01377	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20795	c.496A>G/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA19461	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA19456	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA19149	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00321	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA19334	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03085	c.1615G>A/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02299	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00443	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03914	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02786	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG04001	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01501	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20872	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03837	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG00560	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03800	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00557	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18523	Reference/[c.2194G>A (*6) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01254	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA20845	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00235	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01029	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02861	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01536	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA18952	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20356	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG03313	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG01947	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02410	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01970	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA12889	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19904	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG02427	Reference/c.1896T>C	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19095	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG02138	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03159	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02345	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG01783	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18965	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03446	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03718	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01853	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20520	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02266	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG03565	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG01697	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18871	[c.85T>C (*9A) + c.557A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+NA20517	c.1601G>A (*4)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG01864	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA21128	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+NA20334	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA18907	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA19795	c.1896T>C/[c.85T>C (*9A) + c.496A>G + c.2977C>T]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG01083	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01912	[c.85T>C (*9A) + c.2194G>A (*6)]/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02445	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA11932	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG03989	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03018	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02079	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03265	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA20542	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA12546	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG04188	Reference/c.496A>G	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01806	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01488	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG01197	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02233	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA10847	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG00867	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19681	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG02116	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02887	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02409	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG03615	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA12890	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20894	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02121	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG00099	Reference/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG02643	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA20539	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02002	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5) + c.1905+1G>A (*2A)]	Indeterminate	1.0	PEL	AMR	PEL	Intermedio
+HG03063	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG02760	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02757	Reference/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18868	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA12777	Reference/c.496A>G	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20773	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03054	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG03229	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02035	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19198	Reference/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03736	Reference/c.1896T>C	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA12154	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02309	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03115	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG03884	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02621	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21106	c.1601G>A (*4)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG02143	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03640	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03990	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02702	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G + c.2194G>A (*6)]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG02060	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03754	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01491	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02057	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG00672	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA18606	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01171	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19378	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00110	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00881	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01613	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG01624	c.1601G>A (*4)/c.1601G>A (*4)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00127	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01459	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA18631	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG04159	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG02580	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01707	Reference/[c.1601G>A (*4) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19773	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA20809	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA19011	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00766	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG02494	c.2194G>A (*6)/[c.85T>C (*9A) + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG03397	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01052	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19026	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA18558	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG01113	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00610	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01882	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG00338	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01124	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00145	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01359	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03583	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG04018	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01518	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00704	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA12383	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18983	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01765	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1601G>A (*4)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19711	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA19726	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02394	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19239	Reference/[c.85T>C (*9A) + c.1349C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG02878	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18747	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG03048	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03557	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18874	Reference/c.1371C>T	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02536	[c.85T>C (*9A) + c.1218G>A]/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01861	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20512	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03235	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02029	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19184	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20525	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03202	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02501	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA20758	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA19090	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20888	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19901	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01786	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA18960	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18957	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01942	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02554	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA18498	Reference/c.3067C>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA19684	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02236	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG02322	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01599	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01917	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG04099	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01086	c.1627A>G (*5)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG03343	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG01920	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02477	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03898	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02315	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03109	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA20822	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00252	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03694	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01551	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03867	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18544	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG00530	Reference/[c.1896T>C + c.2336C>A]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA19758	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA19247	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+HG01204	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03850	Reference/c.496A>G	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA18573	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01566	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA20815	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01079	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00265	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+HG03973	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19431	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03780	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00346	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00371	Reference/c.1896T>C	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19119	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20901	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	GIH	SAS	SAS	Intermedio
+HG03944	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01251	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19225	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03805	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02697	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+NA18526	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG04033	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19058	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20877	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01504	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA12873	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03832	Reference/c.496A>G	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01779	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18511	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00565	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00324	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02970	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00446	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02783	c.1601G>A (*4)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG03911	c.2194G>A (*6)/c.2279C>T	Intermediate Metabolizer	1.5	BEB	SAS	SAS	Intermedio
+NA19331	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00159	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01345	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG01372	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA20790	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03926	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA21093	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02947	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00313	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03937	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG01363	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19317	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA19475	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00335	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01354	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00148	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19320	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03091	Reference/c.3067C>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG00457	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03900	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	STU	SAS	SAS	Intermedio
+HG02792	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG04015	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01515	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA20866	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01277	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03823	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01768	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03814	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00543	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18537	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02399	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA20851	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG04022	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01522	Reference/c.496A>G	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19108	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00360	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20910	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA19375	c.85T>C (*9A)/c.1371C>T	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03955	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00357	[c.85T>C (*9A) + c.496A>G]/[c.1627A>G (*5) + c.1905+1G>A (*2A)]	Indeterminate	1.0	FIN	EUR	EUR	Intermedio
+NA18562	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+NA20804	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG00274	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02820	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01577	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02817	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03685	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02186	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00243	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19256	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA19749	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA18555	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02179	[c.85T>C (*9A) + c.1896T>C]/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG03118	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02304	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA18924	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20320	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA20317	Reference/Reference	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01097	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03352	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00844	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03271	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA11832	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02545	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01812	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG03246	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01183	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA18489	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+NA12718	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA18946	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20342	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG02679	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01953	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA12413	Reference/c.1896T>C	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02433	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19081	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20899	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02351	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18971	c.451A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01797	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03452	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01847	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+NA20534	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02272	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG03571	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18865	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00180	c.2194G>A (*6)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA20503	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03224	Reference/c.3067C>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01870	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02385	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03199	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03808	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19055	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19062	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01509	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19700	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA18992	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19141	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00329	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA18642	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG01348	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00154	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02291	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA12286	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA20282	c.85T>C (*9A)/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01893	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01102	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19037	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02485	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG00740	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19755	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA18549	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG04216	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19762	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA20818	Reference/c.1896T>C	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00268	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19000	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00136	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+NA18620	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00654	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19114	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA20582	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA18617	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00663	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01602	[c.85T>C (*9A) + c.496A>G]/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19676	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03949	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00101	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00383	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG03745	c.2194G>A (*6)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG04180	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02724	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03538	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03027	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03772	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03133	Reference/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA21117	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG04094	Reference/c.1896T>C	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02152	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG02165	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG03895	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+NA21120	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02318	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA20762	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02259	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03045	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18879	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03727	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19818	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG03238	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19189	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA12004	Reference/c.2846A>T	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+NA20528	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02013	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02982	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02771	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA12751	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA20755	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03072	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20885	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02130	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02652	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03166	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA21142	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG03479	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03604	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02896	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02107	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA18570	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA12812	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01565	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00266	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00251	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03388	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20821	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02805	c.85T>C (*9A)/[c.85T>C (*9A) + c.1615G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03697	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00533	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18547	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03864	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20902	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG00372	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG04171	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18619	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03947	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00410	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19678	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG00138	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+NA19350	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG04146	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG00345	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20874	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01989	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01507	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00566	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00551	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA18525	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02694	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03488	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01530	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG00233	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA21090	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03925	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00472	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02944	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG01413	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19467	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00310	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG00327	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02973	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00638	c.496A>G/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG02780	Reference/c.496A>G	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00445	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19332	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01855	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02502	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03563	c.85T>C (*9A)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG02260	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA18877	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01862	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG03729	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+NA20511	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03168	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02374	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18954	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01941	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19093	c.1218G>A/[c.85T>C (*9A) + c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01976	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01785	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	IBS	EUR	EUR	Intermedio
+NA18963	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00599	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02343	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA20544	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01191	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02048	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG00692	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01800	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG02557	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02235	c.496A>G/c.1601G>A (*4)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03668	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01923	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA20332	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA21119	[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.0	GIH	SAS	SAS	Intermedio
+HG01914	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	ACB	AFR	AFR	Intermedio
+HG01085	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03280	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19131	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02583	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18632	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA18605	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG00671	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG00113	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01610	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19664	Reference/c.1896T>C	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02497	c.2915A>G/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02819	[c.85T>C (*9A) + c.557A>G]/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+NA19025	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01051	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG02188	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03394	Reference/c.1218G>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA19747	Reference/[c.85T>C (*9A) + c.1218G>A + c.1577C>G + c.2194G>A (*6)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA19770	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG01704	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19012	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01066	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01438	Reference/c.1896T>C	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19153	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG02283	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG00146	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+HG01672	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00171	Reference/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA19319	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01110	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00613	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19725	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA18539	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02688	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02397	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00707	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19070	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20868	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19712	c.1601G>A (*4)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA18980	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01766	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02122	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20897	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01286	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01799	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18948	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA12348	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03616	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG02884	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03548	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01392	Reference/c.1896T>C	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03057	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20770	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01849	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03702	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03060	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02763	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21105	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA18593	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03121	c.85T>C (*9A)/c.525G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02140	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG00285	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	FIN	EUR	EUR	Intermedio
+HG03643	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01586	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG03887	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG01492	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03757	c.1627A>G (*5)/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	STU	SAS	SAS	Intermedio
+HG02054	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19384	c.85T>C (*9A)/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA12716	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02736	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA12043	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03760	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03771	[c.85T>C (*9A) + c.2279C>T]/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	1.5	ITU	SAS	SAS	Intermedio
+HG02072	Reference/[c.496A>G + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG00380	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG03259	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG04183	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03746	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02727	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19395	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03024	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02238	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02166	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02479	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA21123	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG02604	c.2194G>A (*6)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	PJL	SAS	SAS	Intermedio
+HG03896	c.496A>G/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03130	c.85T>C (*9A)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	ESN	AFR	AFR	Intermedio
+NA21114	Reference/[c.85T>C (*9A) + c.2279C>T]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG00978	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18582	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03652	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG01597	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02151	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01088	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG02010	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01858	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03713	c.85T>C (*9A)/c.1129-5923C>G, c.1236G>A (HapB3)	Intermediate Metabolizer	1.5	ITU	SAS	SAS	Intermedio
+HG02981	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02772	Reference/[c.85T>C (*9A) + c.868A>G + c.1218G>A + c.1358C>G + c.3067C>A]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+NA20756	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01383	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03046	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA20761	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03559	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02379	Reference/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02666	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+NA21141	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA18959	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02895	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03607	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02104	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02133	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+NA20886	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02651	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01777	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18991	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19703	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG02386	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18528	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19734	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03485	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG02699	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19056	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19308	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00160	Reference/c.496A>G	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20281	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG03928	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01890	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19175	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG01101	Reference/c.1896T>C	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01136	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA18641	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00448	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02292	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00157	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19761	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG01077	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19003	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03385	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA12828	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	CEU	EUR	EUR	Intermedio
+HG00743	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02808	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19756	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG03869	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG04222	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20581	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA19117	c.1627A>G (*5)/c.3067C>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18614	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00102	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00657	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA18623	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03291	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA20314	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA21108	Reference/c.496A>G	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03433	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA19782	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA18910	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG02330	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03351	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00288	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01094	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02465	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03679	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01932	c.1896T>C/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG03366	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02307	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01811	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG00683	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA11831	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02546	Reference/[c.85T>C (*9A) + c.1218G>A + c.1358C>G]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02224	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02571	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+NA19913	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01967	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19082	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00097	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03451	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18972	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG01794	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA18945	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03304	Reference/c.1218G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02407	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01950	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01680	[c.85T>C (*9A) + c.496A>G]/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG02759	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG00183	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01873	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03738	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01844	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02513	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG02271	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03572	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG00629	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01435	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00336	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19323	[c.85T>C (*9A) + c.3067C>A]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01357	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03934	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00463	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19314	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01360	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG01402	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA18534	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19728	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03817	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG03499	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02685	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA20852	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA18749	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01521	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01516	[c.85T>C (*9A) + c.2194G>A (*6)]/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19200	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00436	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00129	c.85T>C (*9A)/[c.1129-5923C>G, c.1236G>A (HapB3) + c.2194G>A (*6)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+NA07048	Reference/c.2846A>T	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+HG01148	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03792	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18608	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19376	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01302	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19669	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03686	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02814	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19028	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00240	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG02185	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03875	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01709	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18561	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG04209	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00277	Reference/c.1896T>C	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20807	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA18644	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01133	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	CLM	AMR	CLM	Intermedio
+NA19147	Reference/[c.85T>C (*9A) + c.1349C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03594	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19625	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA21098	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01104	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00318	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG00607	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19731	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG00559	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02383	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG04038	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA12878	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19064	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+NA18994	Reference/[c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG03978	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00130	c.85T>C (*9A)/c.1601G>A (*4)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03294	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02088	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA07051	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02597	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA18626	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA18611	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01479	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00107	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19670	Reference/[c.1601G>A (*4) + c.2194G>A (*6)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG00259	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19031	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03380	c.85T>C (*9A)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	MSL	AFR	AFR	Intermedio
+HG04227	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00982	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19764	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG01710	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG04210	Reference/c.1896T>C	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19006	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01072	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA21111	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA18909	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG03135	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02154	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03660	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA21126	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02601	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01808	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01486	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG04186	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03743	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02040	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19390	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03021	Reference/[c.85T>C (*9A) + c.775A>G + c.1896T>C]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG02722	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG02715	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03016	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02568	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03774	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02429	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02136	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03157	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02654	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA21144	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03160	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02890	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01699	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA12760	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA20764	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20519	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03716	Reference/[c.85T>C (*9A) + c.2279C>T]	Indeterminate	1.5	ITU	SAS	SAS	Intermedio
+HG03209	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03074	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20753	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA19078	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01513	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18988	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01271	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA18531	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG03812	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01524	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20787	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01365	Reference/[c.85T>C (*9A) + c.525G>A]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00179	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20298	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG03931	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG04107	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01889	c.3067C>A/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA19473	Reference/c.1218G>A	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00304	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG00451	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03097	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18564	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG01571	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00272	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20802	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG00245	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG02180	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02811	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18553	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03870	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00366	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01465	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG03953	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01618	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00404	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG04152	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00351	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03515	Reference/c.1371C>T	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02574	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03240	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02221	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG03363	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03401	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG00956	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03129	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03436	Reference/c.3067C>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18915	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA11920	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03354	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02009	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA20532	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA19835	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01841	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03577	c.85T>C (*9A)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG02274	Reference/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00186	Reference/c.496A>G	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20778	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01685	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02521	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20505	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02360	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA12340	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18940	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02402	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19921	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	ASW	AFR	AFR	Intermedio
+HG03301	Reference/c.1218G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19087	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03629	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+NA19916	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG02648	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA18977	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01791	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01973	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19096	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03445	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20362	c.1129-5923C>G, c.1236G>A (HapB3)/[c.85T>C (*9A) + c.557A>G + c.2194G>A (*6)]	Indeterminate	1.0	ASW	AFR	AFR	Intermedio
+NA18966	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03472	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA20355	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA18951	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02371	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01944	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+HG01694	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA20276	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA12272	c.496A>G/c.496A>G	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02252	c.1627A>G (*5)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA20769	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20514	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01867	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01850	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03079	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02265	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01080	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA11931	c.2194G>A (*6)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02471	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01926	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03372	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03410	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18933	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01805	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02230	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00864	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19682	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA20541	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03779	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00422	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19355	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02085	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03786	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19437	c.1371C>T/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01443	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02923	c.3067C>A/[c.85T>C (*9A) + c.2161G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG01474	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20589	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03692	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01048	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00254	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA18542	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00536	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03861	c.85T>C (*9A)/c.1601G>A (*4)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03856	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00263	c.1601G>A (*4)/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20813	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02837	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG04060	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02976	c.85T>C (*9A)/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA19455	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03086	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03917	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA20289	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA21095	Reference/c.496A>G	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03920	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA20796	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	TSI	EUR	EUR	Intermedio
+HG01374	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00315	c.2194G>A (*6)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02941	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA19462	Reference/[c.85T>C (*9A) + c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA18520	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00554	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03803	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02691	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01257	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19223	Reference/c.496A>G	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA07357	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C + c.2194G>A (*6)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG00236	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20846	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA12842	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00729	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG04035	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04002	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02855	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01260	c.1896T>C/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA12399	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	CEU	EUR	EUR	Intermedio
+NA19214	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A + c.2195T>G]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA18517	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18999	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03052	Reference/[c.85T>C (*9A) + c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA20775	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03730	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA20508	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02881	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01958	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02127	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20892	c.1627A>G (*5)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG03624	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG02645	c.85T>C (*9A)/[c.85T>C (*9A) + c.868A>G + c.1218G>A + c.1358C>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG00580	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03007	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG03518	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03765	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA12046	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG01188	c.85T>C (*9A)/c.496A>G	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02051	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01497	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG03752	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02733	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA21137	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG02610	c.85T>C (*9A)/[c.2194G>A (*6) + c.3067C>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03882	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG03124	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA21100	c.2194G>A (*6)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA18596	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03646	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01583	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00280	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01063	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19017	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01054	Reference/c.496A>G	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19020	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03391	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01177	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00674	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01468	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19661	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG00409	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01615	c.2194G>A (*6)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG00116	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00121	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03969	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02586	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18637	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01140	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19075	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01990	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+NA18985	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19717	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02392	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19720	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03491	c.2194G>A (*6)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG04029	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19042	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00174	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA21089	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00309	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01122	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA11893	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19449	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02799	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03585	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02286	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00143	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG01612	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19379	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00111	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01170	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02938	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG04158	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA18630	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00126	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01625	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19651	c.1896T>C/c.2194G>A (*6)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA19010	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00278	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG01064	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA20808	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG04206	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA18559	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19027	Reference/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03689	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01883	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG00611	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01112	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00173	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01670	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02281	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01125	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00339	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA11894	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00626	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18982	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19072	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00705	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01997	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01519	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG04019	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00732	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02879	c.85T>C (*9A)/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG01031	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA19238	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02395	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03189	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02408	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03469	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02675	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG02642	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01284	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20895	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01968	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA20538	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	TSI	EUR	EUR	Intermedio
+HG02003	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03228	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01390	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20772	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03055	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA12776	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02756	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03885	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA21130	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG03114	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02308	c.1627A>G (*5)/[c.85T>C (*9A) + c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03369	Reference/c.1218G>A	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA12155	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02142	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03123	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02620	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21107	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA18591	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG03762	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG02061	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02703	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03991	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02734	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02549	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03755	Reference/c.496A>G	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00531	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA19759	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA18545	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03866	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA12827	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	CEU	EUR	EUR	Intermedio
+HG01550	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02489	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02807	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03695	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00253	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00264	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20814	Reference/c.496A>G	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA18572	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03851	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01205	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02082	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG04144	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03781	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01444	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19430	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01326	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01311	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03945	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04173	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA20900	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+NA19118	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA19059	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00231	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00553	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02696	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01250	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02389	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03195	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19213	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA18510	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG03833	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA12872	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02852	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA20876	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03081	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01344	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00158	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03910	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02971	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA19452	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01139	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00325	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02946	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA21092	[c.85T>C (*9A) + c.775A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA19307	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA19185	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20513	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02028	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03234	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG01860	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA11840	Reference/c.1129-5923C>G, c.1236G>A (HapB3)	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+HG02537	c.85T>C (*9A)/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03556	Reference/c.1218G>A	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG00190	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA12275	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02255	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03049	c.1627A>G (*5)/[c.85T>C (*9A) + c.557A>G + c.1218G>A]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+NA20759	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02262	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01857	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20524	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03442	c.2194G>A (*6)/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA18961	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01974	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA19900	c.1896T>C/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA20889	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19091	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18956	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18499	Reference/[c.85T>C (*9A) + c.2978T>G]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG02728	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00690	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01802	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02555	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02562	c.3067C>A/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03342	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG04098	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01598	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG02323	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03108	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02314	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG03899	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA18934	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02476	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01921	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03888	Reference/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+NA20321	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG02178	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02450	Reference/[c.85T>C (*9A) + c.3067C>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01589	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02332	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19780	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+NA18912	Reference/c.1218G>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02573	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03270	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA18488	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01182	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03247	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	GWD	AFR	AFR	Intermedio
+HG01813	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03619	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02367	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA12347	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02678	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03464	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18947	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18970	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01796	Reference/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA19080	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01965	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA18853	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20535	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03212	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01846	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02511	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG01871	Reference/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20502	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03225	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+HG00181	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03058	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18864	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01682	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	IBS	EUR	EUR	Intermedio
+HG03547	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG04100	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA19474	[c.85T>C (*9A) + c.557A>G]/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	1.5	LWK	AFR	AFR	Intermedio
+NA19316	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01362	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02793	c.85T>C (*9A)/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00149	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+NA19321	Reference/[c.85T>C (*9A) + c.557A>G + c.1627A>G (*5)]	Indeterminate	1.5	LWK	AFR	AFR	Intermedio
+HG00334	Reference/c.1896T>C	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19443	[c.85T>C (*9A) + c.2194G>A (*6)]/[c.525G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG01437	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA18501	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20867	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00708	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG04014	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG04023	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+NA20850	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01241	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA19235	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02398	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18536	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00542	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03815	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02687	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00403	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19374	c.85T>C (*9A)/[c.85T>C (*9A) + c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA20911	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00361	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG04162	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG01462	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG04155	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03790	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01455	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG00356	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03963	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG01628	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG04076	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG01069	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00275	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA20805	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA18563	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19257	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+HG00242	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20832	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02187	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03684	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02816	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA19397	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG03539	[c.85T>C (*9A) + c.1218G>A]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG02725	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG03744	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02558	c.85T>C (*9A)/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG00382	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02047	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02070	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG03773	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG02153	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01595	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+NA21116	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03132	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03105	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03894	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA18939	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG03667	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02164	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03378	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA12144	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA12005	c.496A>G/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02025	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+NA19819	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+NA18878	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20763	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20754	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG03073	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA12750	Reference/c.1896T>C	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03711	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02983	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA20529	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02012	c.85T>C (*9A)/c.3067C>A	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG00596	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01979	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA20884	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02131	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02419	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA21143	c.85T>C (*9A)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG03478	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA19054	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18757	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03809	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	BEB	SAS	SAS	Normal
+HG03198	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02384	Reference/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01775	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA18993	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19701	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG01986	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19063	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00155	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03593	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00637	c.496A>G/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA18643	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00328	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01134	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19468	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01892	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA12287	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18548	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03698	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02484	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA19036	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01075	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00269	Reference/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA19001	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20819	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA07056	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA18621	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00428	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00137	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00100	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01603	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00662	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA18616	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01161	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG04026	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+NA18533	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG02682	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA19207	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	YRI	AFR	AFR	Intermedio
+NA18504	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20862	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03095	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01350	c.1601G>A (*4)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+NA19324	c.85T>C (*9A)/c.1349C>T	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01432	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19446	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00331	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+NA19159	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00306	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02952	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG01405	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00619	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19471	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+NA21086	c.1627A>G (*5)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+HG01678	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00464	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA20785	[c.85T>C (*9A) + c.1627A>G (*5)]/[c.85T>C (*9A) + c.496A>G + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+HG00525	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG04239	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG03872	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02813	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG03681	c.496A>G/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG02182	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA20800	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA18566	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00353	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02589	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18638	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19346	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG01305	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00119	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG03951	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00406	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00364	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02223	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG03520	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00684	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG01816	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01498	c.1129-5923C>G, c.1236G>A (HapB3)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	1.5	CLM	AMR	CLM	Intermedio
+HG02541	c.85T>C (*9A)/c.1218G>A	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG04198	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01187	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG02069	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03999	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG03517	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA12234	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG03649	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG02455	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG02628	Reference/Reference	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18917	Reference/[c.85T>C (*9A) + c.1371C>T]	Indeterminate	2.0	YRI	AFR	AFR	Normal
+NA18599	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19785	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02337	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02462	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG01935	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA20507	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01874	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA18861	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG01398	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA12749	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+NA18856	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG02769	c.85T>C (*9A)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	GWD	AFR	AFR	Normal
+HG03575	Reference/[c.85T>C (*9A) + c.557A>G]	Indeterminate	1.5	MSL	AFR	AFR	Intermedio
+HG01843	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG03708	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA20530	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG02355	Reference/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18975	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA19914	Reference/Reference	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG02128	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19085	c.85T>C (*9A)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG03303	Reference/[c.1627A>G (*5) + c.3067C>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA19923	Reference/c.1218G>A	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA20346	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG03461	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18942	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA12342	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+NA19172	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20799	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA12282	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00478	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19338	Reference/Reference	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00150	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GBR	EUR	EUR	Intermedio
+HG01131	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG02979	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA18646	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00632	Reference/[c.85T>C (*9A) + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+NA19704	c.2915A>G/[c.1371C>T + c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG01770	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19066	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA11994	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG00239	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20849	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG01747	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA06994	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01606	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00105	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20586	Reference/c.496A>G	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+NA20908	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG01164	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG00378	c.1627A>G (*5)/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA18613	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03789	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02595	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA18624	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHB	EAS	EAS	Normal
+HG00650	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA19438	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG00132	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG01631	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+NA19004	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01070	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG04212	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG04225	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01047	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+HG03382	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02481	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG02603	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA21124	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03100	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG02449	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG04090	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG02156	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG03428	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG02634	c.496A>G/c.1218G>A	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+NA21113	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	GIH	SAS	SAS	Intermedio
+HG02075	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03985	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00698	Reference/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	CHS	EAS	EAS	Normal
+HG03741	Reference/Reference	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+NA20127	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG03600	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03162	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG02661	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA18969	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG00593	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+NA20881	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG02134	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA19099	Reference/Reference	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA19908	Reference/[c.85T>C (*9A) + c.1218G>A + c.1896T>C]	Indeterminate	2.0	ASW	AFR	AFR	Normal
+HG02775	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02017	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02508	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG03714	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG01868	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	KHV	EAS	EAS	Normal
+HG02020	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01384	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA20766	c.85T>C (*9A)/[c.1627A>G (*5) + c.2194G>A (*6)]	Indeterminate	2.0	TSI	EUR	EUR	Normal
+NA12762	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02031	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01879	c.1371C>T/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01395	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG00189	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG03578	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG03705	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG02006	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG01281	Reference/Reference	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA18978	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20890	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19088	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	JPT	EAS	EAS	Normal
+HG03611	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA19383	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG02731	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01495	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00689	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03750	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG04195	Reference/Reference	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG02053	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+NA12044	c.1627A>G (*5)/[c.85T>C (*9A) + c.775A>G + c.2194G>A (*6)]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG02064	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG03767	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	PJL	SAS	SAS	Normal
+HG02219	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02147	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG00282	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG03644	Reference/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	STU	SAS	SAS	Intermedio
+HG03439	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	MSL	AFR	AFR	Normal
+NA21102	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+NA19788	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03126	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG03111	Reference/Reference	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+NA21135	Reference/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	GIH	SAS	SAS	Normal
+NA11918	Reference/c.1129-5923C>G, c.1236G>A (HapB3)	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+HG03673	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01938	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA19740	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02490	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG01061	c.1896T>C/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19984	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA19777	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG03848	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG01142	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+NA19429	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	LWK	AFR	AFR	Normal
+HG00641	Reference/[c.85T>C (*9A) + c.2194G>A (*6)]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA18635	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+NA19654	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG01620	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG00123	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG00114	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG01308	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA06985	Reference/c.2846A>T	Intermediate Metabolizer	1.5	CEU	EUR	EUR	Intermedio
+NA19663	c.85T>C (*9A)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	MXL	AMR	MXL	Normal
+HG01617	c.1601G>A (*4)/[c.85T>C (*9A) + c.1129-5923C>G, c.1236G>A (HapB3)]	Indeterminate	1.5	IBS	EUR	EUR	Intermedio
+NA18602	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG00369	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+NA20858	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00737	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG01756	[c.85T>C (*9A) + c.496A>G]/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+NA19722	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+HG02390	c.1896T>C/c.1896T>C	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA18987	Reference/c.1896T>C	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG01761	Reference/Reference	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01992	c.1627A>G (*5)/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	PEL	AMR	PEL	Normal
+NA19077	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02284	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ACB	AFR	AFR	Normal
+HG00141	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+HG02968	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ESN	AFR	AFR	Normal
+HG00623	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG00614	Reference/c.1896T>C	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01886	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01675	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG00176	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG02373	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+NA20357	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+HG03470	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+NA18953	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA18964	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+HG02139	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG01971	Reference/c.451A>G	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG02778	c.2194G>A (*6)/c.2194G>A (*6)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+NA20521	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01852	c.85T>C (*9A)/c.1896T>C	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG02505	Reference/Reference	Normal Metabolizer	2.0	ACB	AFR	AFR	Normal
+HG01865	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20516	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01389	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CLM	AMR	CLM	Normal
+HG02250	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+NA18870	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+NA20274	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	ASW	AFR	AFR	Normal
+NA21129	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG03370	c.85T>C (*9A)/[c.85T>C (*9A) + c.1349C>T]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG01924	Reference/Reference	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+NA11933	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG01082	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	PUR	AMR	PUR	Normal
+NA19794	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA12058	Reference/Reference	Normal Metabolizer	2.0	CEU	EUR	EUR	Normal
+HG02078	Reference/Reference	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+NA20543	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03019	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00851	Reference/Reference	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG02232	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01807	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CDX	EAS	EAS	Normal
+HG01489	c.85T>C (*9A)/c.775A>G	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG04189	c.1627A>G (*5)/c.2194G>A (*6)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03940	c.85T>C (*9A)/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG00108	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA19360	c.85T>C (*9A)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA20905	Reference/Reference	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00375	Reference/Reference	Normal Metabolizer	2.0	FIN	EUR	EUR	Normal
+HG04176	Reference/c.1896T>C	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG04141	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+HG03784	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19435	c.1627A>G (*5)/[c.85T>C (*9A) + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+NA18629	Reference/c.1896T>C	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG01441	c.85T>C (*9A)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG02087	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	KHV	EAS	EAS	Normal
+HG00342	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG01323	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03977	Reference/Reference	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+NA19648	Reference/Reference	Normal Metabolizer	2.0	MXL	AMR	MXL	Normal
+NA12815	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	CEU	EUR	EUR	Normal
+HG04062	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	ITU	SAS	SAS	Normal
+HG00261	Reference/[c.85T>C (*9A) + c.1896T>C]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+NA19009	Reference/Reference	Normal Metabolizer	2.0	JPT	EAS	EAS	Normal
+NA20811	Reference/Reference	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG01200	Reference/Reference	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+NA18577	Reference/Reference	Normal Metabolizer	2.0	CHB	EAS	EAS	Normal
+HG03854	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	STU	SAS	SAS	Normal
+HG00534	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG03863	Reference/c.2194G>A (*6)	Normal Metabolizer	2.0	ITU	SAS	SAS	Normal
+HG00256	Reference/Reference	Normal Metabolizer	2.0	GBR	EUR	EUR	Normal
+NA20826	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	TSI	EUR	EUR	Normal
+HG03690	Reference/[c.85T>C (*9A) + c.775A>G]	Indeterminate	2.0	STU	SAS	SAS	Normal
+HG02943	Reference/[c.85T>C (*9A) + c.1218G>A]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+HG00608	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01414	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	PUR	AMR	PUR	Normal
+HG03922	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	BEB	SAS	SAS	Normal
+NA21097	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GIH	SAS	SAS	Normal
+HG00475	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG01669	c.1627A>G (*5)/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	IBS	EUR	EUR	Normal
+HG02787	Reference/Reference	Normal Metabolizer	2.0	PJL	SAS	SAS	Normal
+HG00442	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal
+HG02298	c.1627A>G (*5)/c.1896T>C	Normal Metabolizer	2.0	PEL	AMR	PEL	Normal
+HG03084	Reference/Reference	Normal Metabolizer	2.0	MSL	AFR	AFR	Normal
+HG01341	c.1627A>G (*5)/c.1627A>G (*5)	Normal Metabolizer	2.0	CLM	AMR	CLM	Normal
+HG00320	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	FIN	EUR	EUR	Normal
+HG02974	c.85T>C (*9A)/[c.85T>C (*9A) + c.496A>G + c.1896T>C]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA19457	c.85T>C (*9A)/[c.1218G>A + c.1627A>G (*5)]	Indeterminate	2.0	LWK	AFR	AFR	Normal
+HG03836	Reference/c.1905+1G>A (*2A)	Intermediate Metabolizer	1.0	STU	SAS	SAS	Intermedio
+HG01500	Reference/c.1627A>G (*5)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG01537	Reference/c.1601G>A (*4)	Normal Metabolizer	2.0	IBS	EUR	EUR	Normal
+HG02860	Reference/c.85T>C (*9A)	Normal Metabolizer	2.0	GWD	AFR	AFR	Normal
+HG01028	Reference/[c.85T>C (*9A) + c.496A>G + c.1627A>G (*5)]	Indeterminate	2.0	CDX	EAS	EAS	Normal
+HG00234	Reference/[c.85T>C (*9A) + c.496A>G]	Indeterminate	2.0	GBR	EUR	EUR	Normal
+HG03190	c.1627A>G (*5)/[c.1627A>G (*5) + c.1896T>C]	Indeterminate	2.0	ESN	AFR	AFR	Normal
+NA18522	Reference/c.1218G>A	Normal Metabolizer	2.0	YRI	AFR	AFR	Normal
+HG00556	Reference/Reference	Normal Metabolizer	2.0	CHS	EAS	EAS	Normal

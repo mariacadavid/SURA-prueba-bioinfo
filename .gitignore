@@ -1,0 +1,11 @@
+data/
+tools/
+*.vcf.gz
+*.vcf.gz.tbi
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+pharmcat.log

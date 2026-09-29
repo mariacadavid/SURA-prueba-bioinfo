@@ -1,0 +1,37 @@
+IID	CHROM	POS	REF	ALT	copias	poblacion	superpoblacion	gen	CLNSIG	estrellas	impacto_funcional
+NA19130	chr13	32339596	C	CTA	1	YRI	AFR	BRCA2	Pathogenic	3	stop ganado (nonsense)
+HG00611	chr13	32357820	G	GA	1	CHS	EAS	BRCA2	Pathogenic	3	cambio de marco (frameshift)
+HG00131	chr13	51950132	C	T	1	GBR	EUR	ATP7B	Pathogenic/Likely_pathogenic	2	missense
+HG00246	chr13	51950132	C	T	1	GBR	EUR	ATP7B	Pathogenic/Likely_pathogenic	2	missense
+HG00701	chr13	51950132	C	T	1	CHS	EAS	ATP7B	Pathogenic/Likely_pathogenic	2	missense
+HG01095	chr13	51950132	C	T	1	PUR	AMR	ATP7B	Pathogenic/Likely_pathogenic	2	missense
+HG02156	chr13	51950132	C	T	1	CDX	EAS	ATP7B	Pathogenic/Likely_pathogenic	2	missense
+HG03668	chr13	51974407	G	T	1	PJL	SAS	ATP7B	Pathogenic/Likely_pathogenic	2	stop ganado (nonsense)
+NA21098	chr13	51974407	G	T	1	GIH	SAS	ATP7B	Pathogenic/Likely_pathogenic	2	stop ganado (nonsense)
+HG00129	chr17	80104542	T	G	1	GBR	EUR	GAA	Pathogenic	3	intronica
+HG01110	chr17	80104542	T	G	1	PUR	AMR	GAA	Pathogenic	3	intronica
+HG01303	chr17	80104542	T	G	1	PUR	AMR	GAA	Pathogenic	3	intronica
+HG01311	chr17	80104542	T	G	1	PUR	AMR	GAA	Pathogenic	3	intronica
+HG01395	chr17	80104542	T	G	1	PUR	AMR	GAA	Pathogenic	3	intronica
+HG01583	chr17	80104542	T	G	1	PJL	SAS	GAA	Pathogenic	3	intronica
+HG01612	chr17	80104542	T	G	1	IBS	EUR	GAA	Pathogenic	3	intronica
+HG02308	chr17	80104542	T	G	1	ACB	AFR	GAA	Pathogenic	3	intronica
+HG02439	chr17	80104542	T	G	1	ACB	AFR	GAA	Pathogenic	3	intronica
+NA06994	chr17	80104542	T	G	1	CEU	EUR	GAA	Pathogenic	3	intronica
+NA11932	chr17	80104542	T	G	1	CEU	EUR	GAA	Pathogenic	3	intronica
+NA12399	chr17	80104542	T	G	1	CEU	EUR	GAA	Pathogenic	3	intronica
+NA12873	chr17	80104542	T	G	1	CEU	EUR	GAA	Pathogenic	3	intronica
+NA20529	chr17	80104542	T	G	1	TSI	EUR	GAA	Pathogenic	3	intronica
+NA19159	chr17	80105873	G	A	1	YRI	AFR	GAA	Likely_pathogenic	3	missense
+HG00108	chr17	80107705	C	T	1	GBR	EUR	GAA	Likely_pathogenic	3	missense
+HG00112	chr17	80107705	C	T	1	GBR	EUR	GAA	Likely_pathogenic	3	missense
+HG01619	chr17	80107866	G	A	1	IBS	EUR	GAA	Pathogenic	3	missense
+HG02028	chr17	80112666	G	A	1	KHV	EAS	GAA	Pathogenic	3	missense
+HG03049	chr17	80112929	G	A	1	GWD	AFR	GAA	Pathogenic	3	missense
+HG00238	chr17	80117016	G	C	1	GBR	EUR	GAA	Pathogenic	3	missense
+HG01377	chr17	80117016	G	C	1	CLM	AMR	GAA	Pathogenic	3	missense
+HG02330	chr17	80118271	C	T	1	ACB	AFR	GAA	Pathogenic	3	stop ganado (nonsense)
+HG03063	chr17	80118271	C	T	1	MSL	AFR	GAA	Pathogenic	3	stop ganado (nonsense)
+HG03135	chr17	80118271	C	T	1	ESN	AFR	GAA	Pathogenic	3	stop ganado (nonsense)
+HG03304	chr17	80118271	C	T	1	ESN	AFR	GAA	Pathogenic	3	stop ganado (nonsense)
+NA19235	chr17	80118271	C	T	1	YRI	AFR	GAA	Pathogenic	3	stop ganado (nonsense)
