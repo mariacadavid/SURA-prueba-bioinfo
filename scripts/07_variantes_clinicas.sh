@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # 07_variantes_clinicas.sh — Variantes en genes de enfermedad accionables (bloque C).
-# note: lo que pesa es descargar ClinVar, ~100 MB
+# Uso: conda activate bioinfo-prueba && bash scripts/07_variantes_clinicas.sh
+# Tarda: 10-20 min (lo que pesa es descargar ClinVar, ~100 MB).
 #
 # Decisiones (y por qué):
 #  - Genes: los de la lista ACMG SF (hallazgos secundarios accionables) que están en chr13 y chr17.
@@ -75,4 +76,7 @@ bcftools query -l "${CLI}/anotado.vcf.gz" > "${CLI}/muestras.txt"
 
 # 9) Reporte: frecuencias por población, filtros y cruce con ancestría
 python scripts/utils/variantes_clinicas.py reporte "$CLI"
+# 10) Pruebas estadisticas de agrupamiento por ancestria (chi-cuadrado, Fisher por pares, BH)
+python scripts/utils/pruebas_clinicas.py
+
 echo ">> Listo: results/tablas/C*.tsv y results/figuras/C1_*.png"
